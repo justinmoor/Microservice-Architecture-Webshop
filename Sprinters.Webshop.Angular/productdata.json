@@ -1,0 +1,4708 @@
+{
+    "products": [
+        {
+            "artikelnummer": 3,
+            "naam": "Sport-100 Helmet, Red",
+            "beschrijving": "Universal fit, well-vented, lightweight , snap-on visor.",
+            "prijs": 34.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "HL-U509-R",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Accessories",
+                "Helmets"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 100,
+            "naam": "HL Fork",
+            "beschrijving": "High-performance carbon road fork with curved legs.",
+            "prijs": 229.4900,
+            "afbeeldingUrl": "fork_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "FK-9939",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Components",
+                "Forks"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 104,
+            "naam": "LL Mountain Handlebars",
+            "beschrijving": "All-purpose bar for on or off-road.",
+            "prijs": 44.5400,
+            "afbeeldingUrl": "handlebar_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "HB-M243",
+            "leverancier": "Union",
+            "categorieen": [
+                "Components",
+                "Handlebars"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 103,
+            "naam": "HL Headset",
+            "beschrijving": "High-quality 1\" threadless headset with a grease port for quick lubrication.",
+            "prijs": 124.7300,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "HS - 3479",
+            "leverancier": "Giant",
+            "categorieen": [
+                "Components",
+                "Headsets"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 102,
+            "naam": "ML Headset",
+            "beschrijving": "Sealed cartridge keeps dirt out.",
+            "prijs": 102.2900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "HS-2451",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Components",
+                "Headsets"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 106,
+            "naam": "HL Mountain Handlebars",
+            "beschrijving": "Flat bar strong enough for the pro circuit.",
+            "prijs": 120.2700,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "HB-M918",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Components",
+                "Handlebars"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 105,
+            "naam": "ML Mountain Handlebars",
+            "beschrijving": "Tough aluminum alloy bars for downhill.",
+            "prijs": 61.9200,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "HB-M763",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Components",
+                "Handlebars"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 108,
+            "naam": "ML Road Handlebars",
+            "beschrijving": "Anatomically shaped aluminum tube bar will suit all riders.",
+            "prijs": 61.9200,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "HB-R720",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Components",
+                "Handlebars"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 110,
+            "naam": "ML Mountain Frame - Black, 38",
+            "beschrijving": "The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Men's version.",
+            "prijs": 348.7600,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "FR-M63B-38",
+            "leverancier": "Gazelle",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 107,
+            "naam": "LL Road Handlebars",
+            "beschrijving": "Unique shape provides easier reach to the levers.",
+            "prijs": 44.5400,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "HB-R504",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Components",
+                "Handlebars"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 112,
+            "naam": "ML Mountain Front Wheel",
+            "beschrijving": "Replacement mountain wheel for the casual to serious rider.",
+            "prijs": 209.0300,
+            "afbeeldingUrl": "wheel_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "FW-M762",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Components",
+                "Wheels"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 109,
+            "naam": "HL Road Handlebars",
+            "beschrijving": "Designed for racers; high-end anatomically shaped bar from aluminum alloy.",
+            "prijs": 120.2700,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "HB-R956",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Components",
+                "Handlebars"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 111,
+            "naam": "LL Mountain Front Wheel",
+            "beschrijving": "Replacement mountain wheel for entry-level rider.",
+            "prijs": 60.7500,
+            "afbeeldingUrl": "wheel_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "FW-M423",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Components",
+                "Wheels"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 114,
+            "naam": "LL Road Front Wheel",
+            "beschrijving": "Replacement road front wheel for entry-level cyclist.",
+            "prijs": 85.5700,
+            "afbeeldingUrl": "wheel_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "FW-R623",
+            "leverancier": "Gazelle",
+            "categorieen": [
+                "Components",
+                "Wheels"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 116,
+            "naam": "HL Road Front Wheel",
+            "beschrijving": "Strong wheel with double-walled rim.",
+            "prijs": 330.0600,
+            "afbeeldingUrl": "wheel_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "FW-R820",
+            "leverancier": "Gazelle",
+            "categorieen": [
+                "Components",
+                "Wheels"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 118,
+            "naam": "ML Road Frame-W - Yellow, 38",
+            "beschrijving": "Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version.",
+            "prijs": 594.8300,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-R72Y-38",
+            "leverancier": "Gazelle",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 113,
+            "naam": "HL Mountain Front Wheel",
+            "beschrijving": "High-performance mountain replacement wheel.",
+            "prijs": 300.2200,
+            "afbeeldingUrl": "wheel_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "FW-M928",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Components",
+                "Wheels"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 115,
+            "naam": "ML Road Front Wheel",
+            "beschrijving": "Sturdy alloy features a quick-release hub.",
+            "prijs": 248.3900,
+            "afbeeldingUrl": "wheel_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "FW-R762",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Components",
+                "Wheels"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 120,
+            "naam": "ML Mountain Rear Wheel",
+            "beschrijving": "Replacement mountain wheel for the casual to serious rider.",
+            "prijs": 236.0300,
+            "afbeeldingUrl": "wheel_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "RW-M762",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Components",
+                "Wheels"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 117,
+            "naam": "Touring Front Wheel",
+            "beschrijving": "Aerodynamic rims for smooth riding.",
+            "prijs": 218.0100,
+            "afbeeldingUrl": "wheel_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "FW-T905",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Components",
+                "Wheels"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 122,
+            "naam": "LL Road Rear Wheel",
+            "beschrijving": "Replacement road rear wheel for entry-level cyclist.",
+            "prijs": 112.5700,
+            "afbeeldingUrl": "wheel_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "RW-R623",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Components",
+                "Wheels"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 119,
+            "naam": "LL Mountain Rear Wheel",
+            "beschrijving": "Replacement mountain wheel for entry-level rider.",
+            "prijs": 87.7500,
+            "afbeeldingUrl": "wheel_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "RW-M423",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Components",
+                "Wheels"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 124,
+            "naam": "HL Road Rear Wheel",
+            "beschrijving": "Strong rear wheel with double-walled rim.",
+            "prijs": 357.0600,
+            "afbeeldingUrl": "wheel_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "RW-R820",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Components",
+                "Wheels"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 126,
+            "naam": "ML Mountain Frame - Black, 40",
+            "beschrijving": "The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Women's version.",
+            "prijs": 348.7600,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "FR-M63B-40",
+            "leverancier": "Gazelle",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 121,
+            "naam": "HL Mountain Rear Wheel",
+            "beschrijving": "High-performance mountain replacement wheel.",
+            "prijs": 327.2200,
+            "afbeeldingUrl": "wheel_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "RW-M928",
+            "leverancier": "Union",
+            "categorieen": [
+                "Components",
+                "Wheels"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 128,
+            "naam": "ML Mountain Frame - Black, 48",
+            "beschrijving": "The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Women's version.",
+            "prijs": 348.7600,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "FR-M63B-48",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 123,
+            "naam": "ML Road Rear Wheel",
+            "beschrijving": "Aluminum alloy rim with stainless steel spokes; built for speed.",
+            "prijs": 275.3900,
+            "afbeeldingUrl": "wheel_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "RW-R762",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Components",
+                "Wheels"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 130,
+            "naam": "ML Road Frame-W - Yellow, 42",
+            "beschrijving": "Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version.",
+            "prijs": 594.8300,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-R72Y-42",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 125,
+            "naam": "Touring Rear Wheel",
+            "beschrijving": "Excellent aerodynamic rims guarantee a smooth ride.",
+            "prijs": 245.0100,
+            "afbeeldingUrl": "wheel_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "RW-T905",
+            "leverancier": "Gazelle",
+            "categorieen": [
+                "Components",
+                "Wheels"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 132,
+            "naam": "ML Road Frame-W - Yellow, 48",
+            "beschrijving": "Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version.",
+            "prijs": 594.8300,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-R72Y-48",
+            "leverancier": "Gazelle",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 127,
+            "naam": "ML Mountain Frame - Black, 44",
+            "beschrijving": "The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Women's version.",
+            "prijs": 348.7600,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "FR-M63B-44",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 129,
+            "naam": "ML Road Frame-W - Yellow, 40",
+            "beschrijving": "Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version.",
+            "prijs": 594.8300,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-R72Y-40",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 134,
+            "naam": "HL Road Frame - Black, 44",
+            "beschrijving": "Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.",
+            "prijs": 1431.5000,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-R92B-44",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 136,
+            "naam": "HL Road Frame - Black, 52",
+            "beschrijving": "Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.",
+            "prijs": 1431.5000,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-R92B-52",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 137,
+            "naam": "Men's Sports Shorts, S",
+            "beschrijving": "Men's 8-panel racing shorts - lycra with an elastic waistband and leg grippers.",
+            "prijs": 59.9900,
+            "afbeeldingUrl": "shorts_male_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "SH-M897-S",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Clothing",
+                "Shorts"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 131,
+            "naam": "ML Road Frame-W - Yellow, 44",
+            "beschrijving": "Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Women's version.",
+            "prijs": 594.8300,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-R72Y-44",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 138,
+            "naam": "Touring-Panniers, Large",
+            "beschrijving": "Durable, water-proof nylon construction with easy access. Large enough for weekend trips.",
+            "prijs": 125.0000,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "PA-T100",
+            "leverancier": "Union",
+            "categorieen": [
+                "Accessories",
+                "Panniers"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 140,
+            "naam": "Minipump",
+            "beschrijving": "Designed for convenience. Fits in your pocket. Aluminum barrel. 160psi rated.",
+            "prijs": 19.9900,
+            "afbeeldingUrl": "handpump_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "PU-0452",
+            "leverancier": "Union",
+            "categorieen": [
+                "Accessories",
+                "Pumps"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 133,
+            "naam": "HL Road Frame - Black, 62",
+            "beschrijving": "Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.",
+            "prijs": 1431.5000,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-R92B-62",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 142,
+            "naam": "Taillights - Battery-Powered",
+            "beschrijving": "Affordable light for safe night riding - uses 3 AAA batteries",
+            "prijs": 13.9900,
+            "afbeeldingUrl": "tail_lights_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "LT-T990",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Accessories",
+                "Lights"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 144,
+            "naam": "Headlights - Weatherproof",
+            "beschrijving": "Rugged weatherproof headlight.",
+            "prijs": 44.9900,
+            "afbeeldingUrl": "single_headlight_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "LT-H903",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Accessories",
+                "Lights"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 135,
+            "naam": "HL Road Frame - Black, 48",
+            "beschrijving": "Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.",
+            "prijs": 1431.5000,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-R92B-48",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 148,
+            "naam": "Women's Tights, S",
+            "beschrijving": "Warm spandex tights for winter riding; seamless chamois construction eliminates pressure points.",
+            "prijs": 74.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "TG-W091-S",
+            "leverancier": "Union",
+            "categorieen": [
+                "Clothing",
+                "Tights"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 141,
+            "naam": "Mountain Pump",
+            "beschrijving": "Simple and light-weight. Emergency patches stored in handle.",
+            "prijs": 24.9900,
+            "afbeeldingUrl": "bikepump_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "PU-M044",
+            "leverancier": "Giant",
+            "categorieen": [
+                "Accessories",
+                "Pumps"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 6,
+            "naam": "Mountain Bike Socks, L",
+            "beschrijving": "Combination of natural and synthetic fibers stays dry and provides just the right cushioning.",
+            "prijs": 9.5000,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "SO-B909-L",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Clothing",
+                "Socks"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 9,
+            "naam": "Long-Sleeve Logo Jersey, S",
+            "beschrijving": "Unisex long-sleeve AWC logo microfiber cycling jersey",
+            "prijs": 49.9900,
+            "afbeeldingUrl": "awc_jersey_male_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "LJ-0192-S",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Clothing",
+                "Jerseys"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 146,
+            "naam": "Men's Sports Shorts, L",
+            "beschrijving": "Men's 8-panel racing shorts - lycra with an elastic waistband and leg grippers.",
+            "prijs": 59.9900,
+            "afbeeldingUrl": "shorts_male_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "SH-M897-L",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Clothing",
+                "Shorts"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 139,
+            "naam": "Cable Lock",
+            "beschrijving": "Wraps to fit front and rear tires, carrier and 2 keys included.",
+            "prijs": 25.0000,
+            "afbeeldingUrl": "bike_lock_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "LO-C100",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Accessories",
+                "Locks"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 143,
+            "naam": "Headlights - Dual-Beam",
+            "beschrijving": "Rechargeable dual-beam headlight.",
+            "prijs": 34.9900,
+            "afbeeldingUrl": "double_headlight_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "LT-H902",
+            "leverancier": "Giant",
+            "categorieen": [
+                "Accessories",
+                "Lights"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 150,
+            "naam": "Women's Tights, L",
+            "beschrijving": "Warm spandex tights for winter riding; seamless chamois construction eliminates pressure points.",
+            "prijs": 74.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "TG-W091-L",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Clothing",
+                "Tights"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 145,
+            "naam": "Men's Sports Shorts, M",
+            "beschrijving": "Men's 8-panel racing shorts - lycra with an elastic waistband and leg grippers.",
+            "prijs": 59.9900,
+            "afbeeldingUrl": "shorts_male_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "SH-M897-M",
+            "leverancier": "Union",
+            "categorieen": [
+                "Clothing",
+                "Shorts"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 152,
+            "naam": "Men's Bib-Shorts, M",
+            "beschrijving": "Designed for the AWC team with stay-put straps, moisture-control, chamois padding, and leg grippers.",
+            "prijs": 89.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "SB-M891-M",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Clothing",
+                "Bib-Shorts"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 154,
+            "naam": "Half-Finger Gloves, S",
+            "beschrijving": "Full padding, improved finger flex, durable palm, adjustable closure.",
+            "prijs": 24.4900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "GL-H102-S",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Clothing",
+                "Gloves"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 147,
+            "naam": "Men's Sports Shorts, XL",
+            "beschrijving": "Men's 8-panel racing shorts - lycra with an elastic waistband and leg grippers.",
+            "prijs": 59.9900,
+            "afbeeldingUrl": "shorts_male_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "SH-M897-X",
+            "leverancier": "Union",
+            "categorieen": [
+                "Clothing",
+                "Shorts"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 149,
+            "naam": "Women's Tights, M",
+            "beschrijving": "Warm spandex tights for winter riding; seamless chamois construction eliminates pressure points.",
+            "prijs": 74.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "TG-W091-M",
+            "leverancier": "Giant",
+            "categorieen": [
+                "Clothing",
+                "Tights"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 156,
+            "naam": "Half-Finger Gloves, L",
+            "beschrijving": "Full padding, improved finger flex, durable palm, adjustable closure.",
+            "prijs": 24.4900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "GL-H102-L",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Clothing",
+                "Gloves"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 158,
+            "naam": "Full-Finger Gloves, M",
+            "beschrijving": "Synthetic palm, flexible knuckles, breathable mesh upper. Worn by the AWC team riders.",
+            "prijs": 37.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "GL-F110-M",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Clothing",
+                "Gloves"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 151,
+            "naam": "Men's Bib-Shorts, S",
+            "beschrijving": "Designed for the AWC team with stay-put straps, moisture-control, chamois padding, and leg grippers.",
+            "prijs": 89.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "SB-M891-S",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Clothing",
+                "Bib-Shorts"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 153,
+            "naam": "Men's Bib-Shorts, L",
+            "beschrijving": "Designed for the AWC team with stay-put straps, moisture-control, chamois padding, and leg grippers.",
+            "prijs": 89.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "SB-M891-L",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Clothing",
+                "Bib-Shorts"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 160,
+            "naam": "Classic Vest, S",
+            "beschrijving": "Light-weight, wind-resistant, packs to fit into a pocket.",
+            "prijs": 63.5000,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "VE-C304-S",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Clothing",
+                "Vests"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 155,
+            "naam": "Half-Finger Gloves, M",
+            "beschrijving": "Full padding, improved finger flex, durable palm, adjustable closure.",
+            "prijs": 24.4900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "GL-H102-M",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Clothing",
+                "Gloves"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 164,
+            "naam": "Women's Mountain Shorts, M",
+            "beschrijving": "Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort.",
+            "prijs": 69.9900,
+            "afbeeldingUrl": "shorts_female_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "SH-W890-M",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Clothing",
+                "Shorts"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 159,
+            "naam": "Full-Finger Gloves, L",
+            "beschrijving": "Synthetic palm, flexible knuckles, breathable mesh upper. Worn by the AWC team riders.",
+            "prijs": 37.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "GL-F110-L",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Clothing",
+                "Gloves"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 168,
+            "naam": "Road Bottle Cage",
+            "beschrijving": "Aluminum cage is lighter than our mountain version; perfect for long distance trips.",
+            "prijs": 8.9900,
+            "afbeeldingUrl": "water_bottle_cage_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BC-R205",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Accessories",
+                "Bottles and Cages"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 170,
+            "naam": "Racing Socks, M",
+            "beschrijving": "Thin, lightweight and durable with cuffs that stay up.",
+            "prijs": 8.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "SO-R809-M",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Clothing",
+                "Socks"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 172,
+            "naam": "Hitch Rack - 4-Bike",
+            "beschrijving": "Carries 4 bikes securely; steel construction, fits 2\" receiver hitch.",
+            "prijs": 120.0000,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "RA - H123",
+            "leverancier": "Union",
+            "categorieen": [
+                "Accessories",
+                "Bike Racks"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 174,
+            "naam": "Fender Set - Mountain",
+            "beschrijving": "Clip-on fenders fit most mountain bikes.",
+            "prijs": 21.9800,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FE-6654",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Accessories",
+                "Fenders"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 176,
+            "naam": "Hydration Pack - 70 oz.",
+            "beschrijving": "Versatile 70 oz hydration pack offers extra storage, easy-fill access, and a waist belt.",
+            "prijs": 54.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "HY-1023-70",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Accessories",
+                "Hydration Packs"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 171,
+            "naam": "Racing Socks, L",
+            "beschrijving": "Thin, lightweight and durable with cuffs that stay up.",
+            "prijs": 8.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "SO-R809-L",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Clothing",
+                "Socks"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 173,
+            "naam": "Bike Wash - Dissolver",
+            "beschrijving": "Washes off the toughest road grime; dissolves grease, environmentally safe. 1-liter bottle.",
+            "prijs": 7.9500,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "CL-9009",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Accessories",
+                "Cleaners"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 175,
+            "naam": "All-Purpose Bike Stand",
+            "beschrijving": "Perfect all-purpose bike stand for working on your bike at home. Quick-adjusting clamps and steel construction.",
+            "prijs": 159.0000,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "ST-1401",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Accessories",
+                "Bike Stands"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 177,
+            "naam": "Short-Sleeve Classic Jersey, S",
+            "beschrijving": "Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",
+            "prijs": 53.9900,
+            "afbeeldingUrl": "awc_tee_male_yellow_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "SJ-0194-S",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Clothing",
+                "Jerseys"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 188,
+            "naam": "HL Touring Frame - Blue, 54",
+            "beschrijving": "The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.",
+            "prijs": 1003.9100,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-T98U-54",
+            "leverancier": "Union",
+            "categorieen": [
+                "Components",
+                "Touring Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 181,
+            "naam": "HL Touring Frame - Yellow, 60",
+            "beschrijving": "The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.",
+            "prijs": 1003.9100,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-T98Y-60",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Components",
+                "Touring Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 179,
+            "naam": "Short-Sleeve Classic Jersey, L",
+            "beschrijving": "Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",
+            "prijs": 53.9900,
+            "afbeeldingUrl": "awc_tee_male_yellow_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "SJ-0194-L",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Clothing",
+                "Jerseys"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 183,
+            "naam": "HL Touring Frame - Yellow, 46",
+            "beschrijving": "The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.",
+            "prijs": 1003.9100,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-T98Y-46",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Components",
+                "Touring Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 196,
+            "naam": "LL Touring Frame - Yellow, 50",
+            "beschrijving": "Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.",
+            "prijs": 333.4200,
+            "afbeeldingUrl": "frame_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-T67Y-50",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Components",
+                "Touring Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 198,
+            "naam": "LL Touring Frame - Yellow, 58",
+            "beschrijving": "Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.",
+            "prijs": 333.4200,
+            "afbeeldingUrl": "frame_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-T67Y-58",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Components",
+                "Touring Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 189,
+            "naam": "HL Touring Frame - Blue, 60",
+            "beschrijving": "The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.",
+            "prijs": 1003.9100,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-T98U-60",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Components",
+                "Touring Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 200,
+            "naam": "ML Mountain Frame-W - Silver, 40",
+            "beschrijving": "The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Men's version.",
+            "prijs": 364.0900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-M63S-40",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 202,
+            "naam": "ML Mountain Frame-W - Silver, 46",
+            "beschrijving": "The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Men's version.",
+            "prijs": 364.0900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-M63S-46",
+            "leverancier": "Gazelle",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 195,
+            "naam": "LL Touring Frame - Yellow, 44",
+            "beschrijving": "Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.",
+            "prijs": 333.4200,
+            "afbeeldingUrl": "frame_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-T67Y-44",
+            "leverancier": "Union",
+            "categorieen": [
+                "Components",
+                "Touring Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 208,
+            "naam": "HL Road Seat/Saddle",
+            "beschrijving": "Lightweight kevlar racing saddle. Leather.",
+            "prijs": 52.6400,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "SE-R995",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Components",
+                "Saddles"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 201,
+            "naam": "ML Mountain Frame-W - Silver, 42",
+            "beschrijving": "The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Men's version.",
+            "prijs": 364.0900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-M63S-42",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 216,
+            "naam": "Mountain Tire Tube",
+            "beschrijving": "Self-sealing tube.",
+            "prijs": 4.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "TT-M928",
+            "leverancier": "Gazelle",
+            "categorieen": [
+                "Accessories",
+                "Tires and Tubes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 218,
+            "naam": "Touring Tire Tube",
+            "beschrijving": "General purpose tube.",
+            "prijs": 4.9900,
+            "afbeeldingUrl": "innertube_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "TT-T092",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Accessories",
+                "Tires and Tubes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 211,
+            "naam": "HL Touring Seat/Saddle",
+            "beschrijving": "Cut-out shell for a more comfortable ride.",
+            "prijs": 52.6400,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "SE-T924",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Components",
+                "Saddles"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 226,
+            "naam": "LL Road Tire",
+            "beschrijving": "Same great treads as more expensive tire with a less expensive wire bead casing.",
+            "prijs": 21.4900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "TI-R092",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Accessories",
+                "Tires and Tubes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 162,
+            "naam": "Classic Vest, L",
+            "beschrijving": "Light-weight, wind-resistant, packs to fit into a pocket.",
+            "prijs": 63.5000,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "VE-C304-L",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Clothing",
+                "Vests"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 157,
+            "naam": "Full-Finger Gloves, S",
+            "beschrijving": "Synthetic palm, flexible knuckles, breathable mesh upper. Worn by the AWC team riders.",
+            "prijs": 37.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "GL-F110-S",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Clothing",
+                "Gloves"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 166,
+            "naam": "Water Bottle - 30 oz.",
+            "beschrijving": "AWC logo water bottle - holds 30 oz; leak-proof.",
+            "prijs": 4.9900,
+            "afbeeldingUrl": "water_bottle_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "WB-H098",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Accessories",
+                "Bottles and Cages"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 161,
+            "naam": "Classic Vest, M",
+            "beschrijving": "Light-weight, wind-resistant, packs to fit into a pocket.",
+            "prijs": 63.5000,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "VE-C304-M",
+            "leverancier": "Gazelle",
+            "categorieen": [
+                "Clothing",
+                "Vests"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 163,
+            "naam": "Women's Mountain Shorts, S",
+            "beschrijving": "Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort.",
+            "prijs": 69.9900,
+            "afbeeldingUrl": "shorts_female_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "SH-W890-S",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Clothing",
+                "Shorts"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 165,
+            "naam": "Women's Mountain Shorts, L",
+            "beschrijving": "Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort.",
+            "prijs": 69.9900,
+            "afbeeldingUrl": "shorts_female_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "SH-W890-L",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Clothing",
+                "Shorts"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 167,
+            "naam": "Mountain Bottle Cage",
+            "beschrijving": "Tough aluminum cage holds bottle securly on tough terrain.",
+            "prijs": 9.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BC-M005",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Accessories",
+                "Bottles and Cages"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 169,
+            "naam": "Patch Kit/8 Patches",
+            "beschrijving": "Includes 8 different size patches, glue and sandpaper.",
+            "prijs": 2.2900,
+            "afbeeldingUrl": "tirepatch_kit_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "PK-7098",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Accessories",
+                "Tires and Tubes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 178,
+            "naam": "Short-Sleeve Classic Jersey, M",
+            "beschrijving": "Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",
+            "prijs": 53.9900,
+            "afbeeldingUrl": "awc_tee_male_yellow_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "SJ-0194-M",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Clothing",
+                "Jerseys"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 180,
+            "naam": "Short-Sleeve Classic Jersey, XL",
+            "beschrijving": "Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",
+            "prijs": 53.9900,
+            "afbeeldingUrl": "awc_tee_male_yellow_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "SJ-0194-X",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Clothing",
+                "Jerseys"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 182,
+            "naam": "LL Touring Frame - Yellow, 62",
+            "beschrijving": "Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.",
+            "prijs": 333.4200,
+            "afbeeldingUrl": "frame_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-T67Y-62",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Components",
+                "Touring Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 184,
+            "naam": "HL Touring Frame - Yellow, 50",
+            "beschrijving": "The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.",
+            "prijs": 1003.9100,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-T98Y-50",
+            "leverancier": "Union",
+            "categorieen": [
+                "Components",
+                "Touring Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 186,
+            "naam": "HL Touring Frame - Blue, 46",
+            "beschrijving": "The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.",
+            "prijs": 1003.9100,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-T98U-46",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Components",
+                "Touring Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 190,
+            "naam": "Rear Derailleur",
+            "beschrijving": "Wide-link design.",
+            "prijs": 121.4600,
+            "afbeeldingUrl": "sprocket_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "RD-2308",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Components",
+                "Derailleurs"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 192,
+            "naam": "LL Touring Frame - Blue, 54",
+            "beschrijving": "Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.",
+            "prijs": 333.4200,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-T67U-54",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Components",
+                "Touring Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 194,
+            "naam": "LL Touring Frame - Blue, 62",
+            "beschrijving": "Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.",
+            "prijs": 333.4200,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-T67U-62",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Components",
+                "Touring Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 187,
+            "naam": "HL Touring Frame - Blue, 50",
+            "beschrijving": "The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.",
+            "prijs": 1003.9100,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-T98U-50",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Components",
+                "Touring Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 185,
+            "naam": "HL Touring Frame - Yellow, 54",
+            "beschrijving": "The HL aluminum frame is custom-shaped for both good looks and strength; it will withstand the most rigorous challenges of daily riding. Men's version.",
+            "prijs": 1003.9100,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-T98Y-54",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Components",
+                "Touring Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 191,
+            "naam": "LL Touring Frame - Blue, 50",
+            "beschrijving": "Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.",
+            "prijs": 333.4200,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-T67U-50",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Components",
+                "Touring Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 204,
+            "naam": "ML Mountain Seat/Saddle",
+            "beschrijving": "Designed to absorb shock.",
+            "prijs": 39.1400,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "SE-M798",
+            "leverancier": "Union",
+            "categorieen": [
+                "Components",
+                "Saddles"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 193,
+            "naam": "LL Touring Frame - Blue, 58",
+            "beschrijving": "Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.",
+            "prijs": 333.4200,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-T67U-58",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Components",
+                "Touring Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 206,
+            "naam": "LL Road Seat/Saddle",
+            "beschrijving": "Lightweight foam-padded saddle.",
+            "prijs": 27.1200,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "SE-R581",
+            "leverancier": "Union",
+            "categorieen": [
+                "Components",
+                "Saddles"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 197,
+            "naam": "LL Touring Frame - Yellow, 54",
+            "beschrijving": "Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.",
+            "prijs": 333.4200,
+            "afbeeldingUrl": "frame_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-T67Y-54",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Components",
+                "Touring Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 199,
+            "naam": "LL Touring Frame - Blue, 44",
+            "beschrijving": "Lightweight butted aluminum frame provides a more upright riding position for a trip around town.  Our ground-breaking design provides optimum comfort.",
+            "prijs": 333.4200,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-T67U-44",
+            "leverancier": "Gazelle",
+            "categorieen": [
+                "Components",
+                "Touring Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 12,
+            "naam": "Long-Sleeve Logo Jersey, XL",
+            "beschrijving": "Unisex long-sleeve AWC logo microfiber cycling jersey",
+            "prijs": 49.9900,
+            "afbeeldingUrl": "awc_jersey_male_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "LJ-0192-X",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Clothing",
+                "Jerseys"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 18,
+            "naam": "LL Road Frame - Black, 58",
+            "beschrijving": "The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",
+            "prijs": 337.2200,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-R38B-58",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 10,
+            "naam": "Long-Sleeve Logo Jersey, M",
+            "beschrijving": "Unisex long-sleeve AWC logo microfiber cycling jersey",
+            "prijs": 49.9900,
+            "afbeeldingUrl": "awc_jersey_male_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "LJ-0192-M",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Clothing",
+                "Jerseys"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 245,
+            "naam": "ML Crankset",
+            "beschrijving": "High-strength crank arm.",
+            "prijs": 256.4900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "CS-6583",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Components",
+                "Cranksets"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 13,
+            "naam": "HL Road Frame - Red, 62",
+            "beschrijving": "Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.",
+            "prijs": 1431.5000,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-R92R-62",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 210,
+            "naam": "ML Touring Seat/Saddle",
+            "beschrijving": "New design relieves pressure for long rides.",
+            "prijs": 39.1400,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "SE-T762",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Components",
+                "Saddles"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 276,
+            "naam": "Mountain-400-W Silver, 40",
+            "beschrijving": "This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road.",
+            "prijs": 769.4900,
+            "afbeeldingUrl": "hotrodbike_f_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-M38S-40",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 282,
+            "naam": "Mountain-500 Silver, 48",
+            "beschrijving": "Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",
+            "prijs": 564.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-M18S-48",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 20,
+            "naam": "LL Road Frame - Black, 62",
+            "beschrijving": "The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",
+            "prijs": 337.2200,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-R38B-62",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 27,
+            "naam": "ML Road Frame - Red, 44",
+            "beschrijving": "Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Men's version.",
+            "prijs": 594.8300,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "FR-R72R-44",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 251,
+            "naam": "Touring-1000 Yellow, 54",
+            "beschrijving": "Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.",
+            "prijs": 2384.0700,
+            "afbeeldingUrl": "julianax_r_02_yellow_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-T79Y-54",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Bikes",
+                "Touring Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 39,
+            "naam": "HL Mountain Frame - Black, 42",
+            "beschrijving": "Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.",
+            "prijs": 1349.6000,
+            "afbeeldingUrl": "frame_black_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-M94B-42",
+            "leverancier": "Union",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 279,
+            "naam": "Mountain-500 Silver, 40",
+            "beschrijving": "Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",
+            "prijs": 564.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-M18S-40",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 69,
+            "naam": "Mountain-100 Silver, 44",
+            "beschrijving": "Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain.",
+            "prijs": 3399.9900,
+            "afbeeldingUrl": "superlight_silver_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "BK-M82S-44",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 67,
+            "naam": "Mountain-100 Silver, 38",
+            "beschrijving": "Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain.",
+            "prijs": 3399.9900,
+            "afbeeldingUrl": "superlight_silver_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "BK-M82S-38",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 25,
+            "naam": "LL Road Frame - Red, 60",
+            "beschrijving": "The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",
+            "prijs": 337.2200,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "FR-R38R-60",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 34,
+            "naam": "LL Road Frame - Black, 52",
+            "beschrijving": "The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",
+            "prijs": 337.2200,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-R38B-52",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 258,
+            "naam": "Touring-3000 Yellow, 54",
+            "beschrijving": "All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",
+            "prijs": 742.3500,
+            "afbeeldingUrl": "julianax_r_02_yellow_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-T18Y-54",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Bikes",
+                "Touring Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 260,
+            "naam": "Touring-3000 Yellow, 62",
+            "beschrijving": "All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",
+            "prijs": 742.3500,
+            "afbeeldingUrl": "julianax_r_02_yellow_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-T18Y-62",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Bikes",
+                "Touring Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 264,
+            "naam": "Touring-1000 Blue, 60",
+            "beschrijving": "Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.",
+            "prijs": 2384.0700,
+            "afbeeldingUrl": "julianax_r_02_blue_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-T79U-60",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Bikes",
+                "Touring Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 255,
+            "naam": "Touring-3000 Blue, 62",
+            "beschrijving": "All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",
+            "prijs": 742.3500,
+            "afbeeldingUrl": "julianax_r_02_blue_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-T18U-62",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Bikes",
+                "Touring Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 46,
+            "naam": "Road-150 Red, 44",
+            "beschrijving": "This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control.",
+            "prijs": 3578.2700,
+            "afbeeldingUrl": "superlight_red_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "BK-R93R-44",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 277,
+            "naam": "Mountain-400-W Silver, 42",
+            "beschrijving": "This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road.",
+            "prijs": 769.4900,
+            "afbeeldingUrl": "hotrodbike_f_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-M38S-42",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 62,
+            "naam": "Road-650 Black, 60",
+            "beschrijving": "Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",
+            "prijs": 782.9900,
+            "afbeeldingUrl": "superlight_black_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "BK-R50B-60",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 90,
+            "naam": "Road-250 Black, 48",
+            "beschrijving": "Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",
+            "prijs": 2443.3500,
+            "afbeeldingUrl": "racer_black_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-R89B-48",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 22,
+            "naam": "LL Road Frame - Red, 48",
+            "beschrijving": "The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",
+            "prijs": 337.2200,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "FR-R38R-48",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 207,
+            "naam": "ML Road Seat/Saddle",
+            "beschrijving": "Rubber bumpers absorb bumps.",
+            "prijs": 39.1400,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "SE-R908",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Components",
+                "Saddles"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 220,
+            "naam": "LL Mountain Frame - Black, 44",
+            "beschrijving": "Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame.",
+            "prijs": 249.7900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-M21B-44",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 224,
+            "naam": "ML Mountain Tire",
+            "beschrijving": "Great traction, high-density rubber.",
+            "prijs": 29.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "TI-M602",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Accessories",
+                "Tires and Tubes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 215,
+            "naam": "LL Mountain Frame - Silver, 52",
+            "beschrijving": "Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame.",
+            "prijs": 264.0500,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-M21S-52",
+            "leverancier": "Giant",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 230,
+            "naam": "LL Mountain Pedal",
+            "beschrijving": "Expanded platform so you can ride in any shoes; great for all-around riding.",
+            "prijs": 40.4900,
+            "afbeeldingUrl": "pedal_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "PD-M282",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Components",
+                "Pedals"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 232,
+            "naam": "HL Mountain Pedal",
+            "beschrijving": "Stainless steel; designed to shed mud easily.",
+            "prijs": 80.9900,
+            "afbeeldingUrl": "pedal_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "PD-M562",
+            "leverancier": "Gazelle",
+            "categorieen": [
+                "Components",
+                "Pedals"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 225,
+            "naam": "HL Mountain Tire",
+            "beschrijving": "Incredible traction, lightweight carbon reinforced.",
+            "prijs": 35.0000,
+            "afbeeldingUrl": "mb_tires_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "TI-M823",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Accessories",
+                "Tires and Tubes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 227,
+            "naam": "ML Road Tire",
+            "beschrijving": "Higher density rubber.",
+            "prijs": 24.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "TI-R628",
+            "leverancier": "Giant",
+            "categorieen": [
+                "Accessories",
+                "Tires and Tubes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 242,
+            "naam": "HL Touring Handlebars",
+            "beschrijving": "A light yet stiff aluminum bar for long distance riding.",
+            "prijs": 91.5700,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "HB-T928",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Components",
+                "Handlebars"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 233,
+            "naam": "LL Road Pedal",
+            "beschrijving": "Clipless pedals - aluminum.",
+            "prijs": 40.4900,
+            "afbeeldingUrl": "clipless_pedals_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "PD-R347",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Components",
+                "Pedals"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 47,
+            "naam": "Road-150 Red, 48",
+            "beschrijving": "This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control.",
+            "prijs": 3578.2700,
+            "afbeeldingUrl": "superlight_red_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "BK-R93R-48",
+            "leverancier": "Union",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 237,
+            "naam": "ML Mountain Frame-W - Silver, 38",
+            "beschrijving": "The ML frame is a heat-treated aluminum frame made with the same detail and quality as our HL frame. It offers superior performance. Men's version.",
+            "prijs": 364.0900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-M63S-38",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 59,
+            "naam": "Road-650 Red, 48",
+            "beschrijving": "Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",
+            "prijs": 782.9900,
+            "afbeeldingUrl": "superlight_red_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "BK-R50R-48",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 48,
+            "naam": "Road-150 Red, 52",
+            "beschrijving": "This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control.",
+            "prijs": 3578.2700,
+            "afbeeldingUrl": "superlight_red_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "BK-R93R-52",
+            "leverancier": "Union",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 285,
+            "naam": "Mountain-500 Black, 42",
+            "beschrijving": "Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",
+            "prijs": 539.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-M18B-42",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 58,
+            "naam": "Road-650 Red, 44",
+            "beschrijving": "Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",
+            "prijs": 782.9900,
+            "afbeeldingUrl": "superlight_red_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "BK-R50R-44",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 94,
+            "naam": "Road-550-W Yellow, 40",
+            "beschrijving": "Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",
+            "prijs": 1120.4900,
+            "afbeeldingUrl": "racer02_yellow_f_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-R64Y-40",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 205,
+            "naam": "HL Mountain Seat/Saddle",
+            "beschrijving": "Anatomic design for a full-day of riding in comfort. Durable leather.",
+            "prijs": 52.6400,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "SE-M940",
+            "leverancier": "Gazelle",
+            "categorieen": [
+                "Components",
+                "Saddles"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 209,
+            "naam": "LL Touring Seat/Saddle",
+            "beschrijving": "Comfortable, ergonomically shaped gel saddle.",
+            "prijs": 27.1200,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "SE-T312",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Components",
+                "Saddles"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 222,
+            "naam": "LL Mountain Frame - Black, 52",
+            "beschrijving": "Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame.",
+            "prijs": 249.7900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-M21B-52",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 213,
+            "naam": "LL Mountain Frame - Silver, 44",
+            "beschrijving": "Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame.",
+            "prijs": 264.0500,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-M21S-44",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 228,
+            "naam": "HL Road Tire",
+            "beschrijving": "Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.",
+            "prijs": 32.6000,
+            "afbeeldingUrl": "street_tires_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "TI-R982",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Accessories",
+                "Tires and Tubes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 219,
+            "naam": "LL Mountain Frame - Black, 42",
+            "beschrijving": "Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame.",
+            "prijs": 249.7900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-M21B-42",
+            "leverancier": "Gazelle",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 234,
+            "naam": "ML Road Pedal",
+            "beschrijving": "Lightweight aluminum alloy construction.",
+            "prijs": 62.0900,
+            "afbeeldingUrl": "clipless_pedals_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "PD-R563",
+            "leverancier": "Giant",
+            "categorieen": [
+                "Components",
+                "Pedals"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 236,
+            "naam": "Touring Pedal",
+            "beschrijving": "A stable pedal for all-day riding.",
+            "prijs": 80.9900,
+            "afbeeldingUrl": "clipless_pedals_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "PD-T852",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Components",
+                "Pedals"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 240,
+            "naam": "Front Derailleur",
+            "beschrijving": "Wide-link design.",
+            "prijs": 91.4900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FD-2342",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Components",
+                "Derailleurs"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 231,
+            "naam": "ML Mountain Pedal",
+            "beschrijving": "Lightweight, durable, clipless pedal with adjustable tension.",
+            "prijs": 62.0900,
+            "afbeeldingUrl": "pedal_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "PD-M340",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Components",
+                "Pedals"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 248,
+            "naam": "Touring-2000 Blue, 60",
+            "beschrijving": "The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded.",
+            "prijs": 1214.8500,
+            "afbeeldingUrl": "julianax_r_02_blue_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-T44U-60",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Bikes",
+                "Touring Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 235,
+            "naam": "HL Road Pedal",
+            "beschrijving": "Top-of-the-line clipless pedals with adjustable tension.",
+            "prijs": 80.9900,
+            "afbeeldingUrl": "clipless_pedals_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "PD-R853",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Components",
+                "Pedals"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 241,
+            "naam": "LL Touring Handlebars",
+            "beschrijving": "Unique shape reduces fatigue for entry level riders.",
+            "prijs": 46.0900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "HB-T721",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Components",
+                "Handlebars"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 243,
+            "naam": "Front Brakes",
+            "beschrijving": "All-weather brake pads; provides superior stopping by applying more surface to the rim.",
+            "prijs": 106.5000,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FB-9873",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Components",
+                "Brakes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 40,
+            "naam": "HL Mountain Frame - Black, 44",
+            "beschrijving": "Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.",
+            "prijs": 1349.6000,
+            "afbeeldingUrl": "frame_black_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "FR-M94B-44",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 257,
+            "naam": "Touring-3000 Yellow, 50",
+            "beschrijving": "All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",
+            "prijs": 742.3500,
+            "afbeeldingUrl": "julianax_r_02_yellow_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-T18Y-50",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Bikes",
+                "Touring Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 45,
+            "naam": "Road-150 Red, 62",
+            "beschrijving": "This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control.",
+            "prijs": 3578.2700,
+            "afbeeldingUrl": "superlight_red_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "BK-R93R-62",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 292,
+            "naam": "Road-750 Black, 44",
+            "beschrijving": "Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.",
+            "prijs": 539.9900,
+            "afbeeldingUrl": "roadster_black_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-R19B-44",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 71,
+            "naam": "Mountain-100 Black, 38",
+            "beschrijving": "Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain.",
+            "prijs": 3374.9900,
+            "afbeeldingUrl": "superlight_black_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "BK-M82B-38",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 83,
+            "naam": "Mountain-300 Black, 44",
+            "beschrijving": "For true trail addicts.  An extremely durable bike that will go anywhere and keep you in control on challenging terrain - without breaking your budget.",
+            "prijs": 1079.9900,
+            "afbeeldingUrl": "hotrodbike_black_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "BK-M47B-44",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 217,
+            "naam": "Road Tire Tube",
+            "beschrijving": "Conventional all-purpose tube.",
+            "prijs": 3.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "TT-R982",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Accessories",
+                "Tires and Tubes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 221,
+            "naam": "LL Mountain Frame - Black, 48",
+            "beschrijving": "Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame.",
+            "prijs": 249.7900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-M21B-48",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 223,
+            "naam": "LL Mountain Tire",
+            "beschrijving": "Comparible traction, less expensive wire bead casing.",
+            "prijs": 24.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "TI-M267",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Accessories",
+                "Tires and Tubes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 238,
+            "naam": "LL Mountain Frame - Black, 40",
+            "beschrijving": "Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame.",
+            "prijs": 249.7900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-M21B-40",
+            "leverancier": "Union",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 229,
+            "naam": "Touring Tire",
+            "beschrijving": "High-density rubber.",
+            "prijs": 28.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "TI-T723",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Accessories",
+                "Tires and Tubes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 244,
+            "naam": "LL Crankset",
+            "beschrijving": "Super rigid spindle.",
+            "prijs": 175.4900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "CS-4759",
+            "leverancier": "Union",
+            "categorieen": [
+                "Components",
+                "Cranksets"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 246,
+            "naam": "HL Crankset",
+            "beschrijving": "Triple crankset; alumunim crank arm; flawless shifting.",
+            "prijs": 404.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "CS-9183",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Components",
+                "Cranksets"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 239,
+            "naam": "LL Mountain Frame - Silver, 40",
+            "beschrijving": "Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame.",
+            "prijs": 264.0500,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-M21S-40",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 44,
+            "naam": "HL Mountain Frame - Silver, 38",
+            "beschrijving": "Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.",
+            "prijs": 1364.5000,
+            "afbeeldingUrl": "frame_silver_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-M94S-38",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 250,
+            "naam": "Touring-1000 Yellow, 50",
+            "beschrijving": "Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.",
+            "prijs": 2384.0700,
+            "afbeeldingUrl": "julianax_r_02_yellow_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-T79Y-50",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Bikes",
+                "Touring Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 30,
+            "naam": "ML Road Frame - Red, 58",
+            "beschrijving": "Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Men's version.",
+            "prijs": 594.8300,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "FR-R72R-58",
+            "leverancier": "Union",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 281,
+            "naam": "Mountain-500 Silver, 44",
+            "beschrijving": "Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",
+            "prijs": 564.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-M18S-44",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 289,
+            "naam": "LL Bottom Bracket",
+            "beschrijving": "Chromoly steel.",
+            "prijs": 53.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BB-7421",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Components",
+                "Bottom Brackets"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 76,
+            "naam": "Mountain-200 Silver, 42",
+            "beschrijving": "Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.",
+            "prijs": 2319.9900,
+            "afbeeldingUrl": "hotrodbike_silver_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-M68S-42",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 89,
+            "naam": "Road-250 Black, 44",
+            "beschrijving": "Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",
+            "prijs": 2443.3500,
+            "afbeeldingUrl": "racer_black_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-R89B-44",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 17,
+            "naam": "HL Road Frame - Red, 56",
+            "beschrijving": "Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.",
+            "prijs": 1431.5000,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-R92R-56",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 49,
+            "naam": "Road-150 Red, 56",
+            "beschrijving": "This bike is ridden by race winners. Developed with the Adventure Works Cycles professional race team, it has a extremely light heat-treated aluminum frame, and steering that allows precision control.",
+            "prijs": 3578.2700,
+            "afbeeldingUrl": "superlight_red_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "BK-R93R-56",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 253,
+            "naam": "Touring-3000 Blue, 54",
+            "beschrijving": "All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",
+            "prijs": 742.3500,
+            "afbeeldingUrl": "julianax_r_02_blue_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-T18U-54",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Bikes",
+                "Touring Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 36,
+            "naam": "HL Mountain Frame - Silver, 44",
+            "beschrijving": "Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.",
+            "prijs": 1364.5000,
+            "afbeeldingUrl": "frame_silver_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "FR-M94S-44",
+            "leverancier": "Union",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 294,
+            "naam": "Road-750 Black, 52",
+            "beschrijving": "Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.",
+            "prijs": 539.9900,
+            "afbeeldingUrl": "roadster_black_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-R19B-52",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 78,
+            "naam": "Mountain-200 Black, 38",
+            "beschrijving": "Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.",
+            "prijs": 2294.9900,
+            "afbeeldingUrl": "hotrodbike_black_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-M68B-38",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 75,
+            "naam": "Mountain-200 Silver, 38",
+            "beschrijving": "Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.",
+            "prijs": 2319.9900,
+            "afbeeldingUrl": "hotrodbike_silver_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-M68S-38",
+            "leverancier": "Giant",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 35,
+            "naam": "HL Mountain Frame - Silver, 42",
+            "beschrijving": "Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.",
+            "prijs": 1364.5000,
+            "afbeeldingUrl": "frame_silver_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-M94S-42",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 254,
+            "naam": "Touring-3000 Blue, 58",
+            "beschrijving": "All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",
+            "prijs": 742.3500,
+            "afbeeldingUrl": "julianax_r_02_blue_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-T18U-58",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Bikes",
+                "Touring Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 247,
+            "naam": "Chain",
+            "beschrijving": "Superior shifting performance.",
+            "prijs": 20.2400,
+            "afbeeldingUrl": "silver_chain_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "CH-0234",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Components",
+                "Chains"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 61,
+            "naam": "Road-650 Black, 58",
+            "beschrijving": "Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",
+            "prijs": 782.9900,
+            "afbeeldingUrl": "superlight_black_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "BK-R50B-58",
+            "leverancier": "Gazelle",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 283,
+            "naam": "Mountain-500 Silver, 52",
+            "beschrijving": "Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",
+            "prijs": 564.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-M18S-52",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 64,
+            "naam": "Road-650 Black, 44",
+            "beschrijving": "Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",
+            "prijs": 782.9900,
+            "afbeeldingUrl": "superlight_black_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "BK-R50B-44",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 93,
+            "naam": "Road-550-W Yellow, 38",
+            "beschrijving": "Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",
+            "prijs": 1120.4900,
+            "afbeeldingUrl": "racer02_yellow_f_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-R64Y-38",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 7,
+            "naam": "Sport-100 Helmet, Blue",
+            "beschrijving": "Universal fit, well-vented, lightweight , snap-on visor.",
+            "prijs": 34.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "HL-U509-B",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Accessories",
+                "Helmets"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 28,
+            "naam": "ML Road Frame - Red, 48",
+            "beschrijving": "Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Men's version.",
+            "prijs": 594.8300,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "FR-R72R-48",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 268,
+            "naam": "Road-350-W Yellow, 40",
+            "beschrijving": "Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",
+            "prijs": 1700.9900,
+            "afbeeldingUrl": "roadster_yellow_f_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-R79Y-40",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 29,
+            "naam": "ML Road Frame - Red, 52",
+            "beschrijving": "Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Men's version.",
+            "prijs": 594.8300,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "FR-R72R-52",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 77,
+            "naam": "Mountain-200 Silver, 46",
+            "beschrijving": "Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.",
+            "prijs": 2319.9900,
+            "afbeeldingUrl": "hotrodbike_silver_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-M68S-46",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 98,
+            "naam": "LL Fork",
+            "beschrijving": "Stout design absorbs shock and offers more precise steering.",
+            "prijs": 148.2200,
+            "afbeeldingUrl": "fork_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "FK-1639",
+            "leverancier": "Union",
+            "categorieen": [
+                "Components",
+                "Forks"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 79,
+            "naam": "Mountain-200 Black, 42",
+            "beschrijving": "Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.",
+            "prijs": 2294.9900,
+            "afbeeldingUrl": "hotrodbike_black_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-M68B-42",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 4,
+            "naam": "Sport-100 Helmet, Black",
+            "beschrijving": "Universal fit, well-vented, lightweight , snap-on visor.",
+            "prijs": 34.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "HL-U509",
+            "leverancier": "Union",
+            "categorieen": [
+                "Accessories",
+                "Helmets"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 50,
+            "naam": "Road-450 Red, 58",
+            "beschrijving": "A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads.",
+            "prijs": 1457.9900,
+            "afbeeldingUrl": "roadster_red_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "BK-R68R-58",
+            "leverancier": "Union",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 256,
+            "naam": "Touring-3000 Yellow, 44",
+            "beschrijving": "All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",
+            "prijs": 742.3500,
+            "afbeeldingUrl": "julianax_r_02_yellow_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-T18Y-44",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Bikes",
+                "Touring Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 287,
+            "naam": "Mountain-500 Black, 48",
+            "beschrijving": "Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",
+            "prijs": 539.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-M18B-48",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 86,
+            "naam": "Road-250 Red, 48",
+            "beschrijving": "Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",
+            "prijs": 2443.3500,
+            "afbeeldingUrl": "racer_red_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "BK-R89R-48",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 14,
+            "naam": "HL Road Frame - Red, 44",
+            "beschrijving": "Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.",
+            "prijs": 1431.5000,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-R92R-44",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 63,
+            "naam": "Road-650 Black, 62",
+            "beschrijving": "Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",
+            "prijs": 782.9900,
+            "afbeeldingUrl": "superlight_black_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "BK-R50B-62",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 262,
+            "naam": "Touring-1000 Blue, 50",
+            "beschrijving": "Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.",
+            "prijs": 2384.0700,
+            "afbeeldingUrl": "julianax_r_02_blue_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-T79U-50",
+            "leverancier": "Giant",
+            "categorieen": [
+                "Bikes",
+                "Touring Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 261,
+            "naam": "Touring-1000 Blue, 46",
+            "beschrijving": "Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.",
+            "prijs": 2384.0700,
+            "afbeeldingUrl": "julianax_r_02_blue_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-T79U-46",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Bikes",
+                "Touring Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 52,
+            "naam": "Road-450 Red, 44",
+            "beschrijving": "A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads.",
+            "prijs": 1457.9900,
+            "afbeeldingUrl": "roadster_red_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "BK-R68R-44",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 33,
+            "naam": "LL Road Frame - Black, 48",
+            "beschrijving": "The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",
+            "prijs": 337.2200,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-R38B-48",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 73,
+            "naam": "Mountain-100 Black, 44",
+            "beschrijving": "Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain.",
+            "prijs": 3374.9900,
+            "afbeeldingUrl": "superlight_black_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "BK-M82B-44",
+            "leverancier": "Gazelle",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 92,
+            "naam": "Road-250 Black, 58",
+            "beschrijving": "Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",
+            "prijs": 2443.3500,
+            "afbeeldingUrl": "racer_black_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-R89B-58",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 15,
+            "naam": "HL Road Frame - Red, 48",
+            "beschrijving": "Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.",
+            "prijs": 1431.5000,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-R92R-48",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 24,
+            "naam": "LL Road Frame - Red, 58",
+            "beschrijving": "The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",
+            "prijs": 337.2200,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "FR-R38R-58",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 249,
+            "naam": "Touring-1000 Yellow, 46",
+            "beschrijving": "Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.",
+            "prijs": 2384.0700,
+            "afbeeldingUrl": "julianax_r_02_yellow_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-T79Y-46",
+            "leverancier": "Union",
+            "categorieen": [
+                "Bikes",
+                "Touring Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 259,
+            "naam": "Touring-3000 Yellow, 58",
+            "beschrijving": "All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",
+            "prijs": 742.3500,
+            "afbeeldingUrl": "julianax_r_02_yellow_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-T18Y-58",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Bikes",
+                "Touring Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 278,
+            "naam": "Mountain-400-W Silver, 46",
+            "beschrijving": "This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road.",
+            "prijs": 769.4900,
+            "afbeeldingUrl": "hotrodbike_f_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-M38S-46",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 291,
+            "naam": "HL Bottom Bracket",
+            "beschrijving": "Aluminum alloy cups and a hollow axle.",
+            "prijs": 121.4900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BB-9108",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Components",
+                "Bottom Brackets"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 66,
+            "naam": "Road-650 Black, 52",
+            "beschrijving": "Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",
+            "prijs": 782.9900,
+            "afbeeldingUrl": "superlight_black_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "BK-R50B-52",
+            "leverancier": "Union",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 1,
+            "naam": "HL Road Frame - Black, 58",
+            "beschrijving": "Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.",
+            "prijs": 1431.5000,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "1998-06-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-R92B-58",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 54,
+            "naam": "Road-450 Red, 52",
+            "beschrijving": "A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads.",
+            "prijs": 1457.9900,
+            "afbeeldingUrl": "roadster_red_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "BK-R68R-52",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 266,
+            "naam": "Touring-2000 Blue, 50",
+            "beschrijving": "The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded.",
+            "prijs": 1214.8500,
+            "afbeeldingUrl": "julianax_r_02_blue_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-T44U-50",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Bikes",
+                "Touring Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 293,
+            "naam": "Road-750 Black, 48",
+            "beschrijving": "Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.",
+            "prijs": 539.9900,
+            "afbeeldingUrl": "roadster_black_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-R19B-48",
+            "leverancier": "Gazelle",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 70,
+            "naam": "Mountain-100 Silver, 48",
+            "beschrijving": "Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain.",
+            "prijs": 3399.9900,
+            "afbeeldingUrl": "superlight_silver_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "BK-M82S-48",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 101,
+            "naam": "LL Headset",
+            "beschrijving": "Threadless headset provides quality at an economical price.",
+            "prijs": 34.2000,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "HS-0296",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Components",
+                "Headsets"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 8,
+            "naam": "AWC Logo Cap",
+            "beschrijving": "Traditional style with a flip-up brim; one-size fits all.",
+            "prijs": 8.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "CA-1098",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Clothing",
+                "Caps"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 2,
+            "naam": "HL Road Frame - Red, 58",
+            "beschrijving": "Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.",
+            "prijs": 1431.5000,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "1998-06-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-R92R-58",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 252,
+            "naam": "Touring-1000 Yellow, 60",
+            "beschrijving": "Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.",
+            "prijs": 2384.0700,
+            "afbeeldingUrl": "julianax_r_02_yellow_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-T79Y-60",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Bikes",
+                "Touring Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 272,
+            "naam": "Road-750 Black, 58",
+            "beschrijving": "Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.",
+            "prijs": 539.9900,
+            "afbeeldingUrl": "roadster_black_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-R19B-58",
+            "leverancier": "Union",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 270,
+            "naam": "Road-350-W Yellow, 44",
+            "beschrijving": "Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",
+            "prijs": 1700.9900,
+            "afbeeldingUrl": "roadster_yellow_f_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-R79Y-44",
+            "leverancier": "Union",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 269,
+            "naam": "Road-350-W Yellow, 42",
+            "beschrijving": "Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",
+            "prijs": 1700.9900,
+            "afbeeldingUrl": "roadster_yellow_f_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-R79Y-42",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 81,
+            "naam": "Mountain-300 Black, 38",
+            "beschrijving": "For true trail addicts.  An extremely durable bike that will go anywhere and keep you in control on challenging terrain - without breaking your budget.",
+            "prijs": 1079.9900,
+            "afbeeldingUrl": "hotrodbike_black_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "BK-M47B-38",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 97,
+            "naam": "Road-550-W Yellow, 48",
+            "beschrijving": "Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",
+            "prijs": 1120.4900,
+            "afbeeldingUrl": "racer02_yellow_f_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-R64Y-48",
+            "leverancier": "Giant",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 80,
+            "naam": "Mountain-200 Black, 46",
+            "beschrijving": "Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.",
+            "prijs": 2294.9900,
+            "afbeeldingUrl": "hotrodbike_black_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-M68B-46",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 96,
+            "naam": "Road-550-W Yellow, 44",
+            "beschrijving": "Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",
+            "prijs": 1120.4900,
+            "afbeeldingUrl": "racer02_yellow_f_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-R64Y-44",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 212,
+            "naam": "LL Mountain Frame - Silver, 42",
+            "beschrijving": "Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame.",
+            "prijs": 264.0500,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-M21S-42",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 23,
+            "naam": "LL Road Frame - Red, 52",
+            "beschrijving": "The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",
+            "prijs": 337.2200,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "FR-R38R-52",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 274,
+            "naam": "Touring-3000 Blue, 50",
+            "beschrijving": "All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",
+            "prijs": 742.3500,
+            "afbeeldingUrl": "julianax_r_02_blue_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-T18U-50",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Bikes",
+                "Touring Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 271,
+            "naam": "Road-350-W Yellow, 48",
+            "beschrijving": "Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",
+            "prijs": 1700.9900,
+            "afbeeldingUrl": "roadster_yellow_f_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-R79Y-48",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 74,
+            "naam": "Mountain-100 Black, 48",
+            "beschrijving": "Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain.",
+            "prijs": 3374.9900,
+            "afbeeldingUrl": "superlight_black_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "BK-M82B-48",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 87,
+            "naam": "Road-250 Red, 52",
+            "beschrijving": "Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",
+            "prijs": 2443.3500,
+            "afbeeldingUrl": "racer_red_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "BK-R89R-52",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 91,
+            "naam": "Road-250 Black, 52",
+            "beschrijving": "Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",
+            "prijs": 2443.3500,
+            "afbeeldingUrl": "racer_black_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-R89B-52",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 41,
+            "naam": "HL Mountain Frame - Black, 48",
+            "beschrijving": "Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.",
+            "prijs": 1349.6000,
+            "afbeeldingUrl": "frame_black_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "FR-M94B-48",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 11,
+            "naam": "Long-Sleeve Logo Jersey, L",
+            "beschrijving": "Unisex long-sleeve AWC logo microfiber cycling jersey",
+            "prijs": 49.9900,
+            "afbeeldingUrl": "awc_jersey_male_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "LJ-0192-L",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Clothing",
+                "Jerseys"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 263,
+            "naam": "Touring-1000 Blue, 54",
+            "beschrijving": "Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.",
+            "prijs": 2384.0700,
+            "afbeeldingUrl": "julianax_r_02_blue_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-T79U-54",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Bikes",
+                "Touring Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 273,
+            "naam": "Touring-3000 Blue, 44",
+            "beschrijving": "All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",
+            "prijs": 742.3500,
+            "afbeeldingUrl": "julianax_r_02_blue_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-T18U-44",
+            "leverancier": "Gazelle",
+            "categorieen": [
+                "Bikes",
+                "Touring Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 95,
+            "naam": "Road-550-W Yellow, 42",
+            "beschrijving": "Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",
+            "prijs": 1120.4900,
+            "afbeeldingUrl": "racer02_yellow_f_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-R64Y-42",
+            "leverancier": "Union",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 26,
+            "naam": "LL Road Frame - Red, 62",
+            "beschrijving": "The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",
+            "prijs": 337.2200,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "FR-R38R-62",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 19,
+            "naam": "LL Road Frame - Black, 60",
+            "beschrijving": "The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",
+            "prijs": 337.2200,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-R38B-60",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 265,
+            "naam": "Touring-2000 Blue, 46",
+            "beschrijving": "The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded.",
+            "prijs": 1214.8500,
+            "afbeeldingUrl": "julianax_r_02_blue_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-T44U-46",
+            "leverancier": "Union",
+            "categorieen": [
+                "Bikes",
+                "Touring Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 288,
+            "naam": "Mountain-500 Black, 52",
+            "beschrijving": "Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",
+            "prijs": 539.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-M18B-52",
+            "leverancier": "Gazelle",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 5,
+            "naam": "Mountain Bike Socks, M",
+            "beschrijving": "Combination of natural and synthetic fibers stays dry and provides just the right cushioning.",
+            "prijs": 9.5000,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "SO-B909-M",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Clothing",
+                "Socks"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 38,
+            "naam": "HL Mountain Frame - Silver, 46",
+            "beschrijving": "Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.",
+            "prijs": 1364.5000,
+            "afbeeldingUrl": "frame_silver_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-M94S-46",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 267,
+            "naam": "Touring-2000 Blue, 54",
+            "beschrijving": "The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded.",
+            "prijs": 1214.8500,
+            "afbeeldingUrl": "julianax_r_02_blue_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-T44U-54",
+            "leverancier": "Gazelle",
+            "categorieen": [
+                "Bikes",
+                "Touring Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 85,
+            "naam": "Road-250 Red, 44",
+            "beschrijving": "Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",
+            "prijs": 2443.3500,
+            "afbeeldingUrl": "racer_red_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "BK-R89R-44",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 57,
+            "naam": "Road-650 Red, 62",
+            "beschrijving": "Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",
+            "prijs": 782.9900,
+            "afbeeldingUrl": "superlight_red_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "BK-R50R-62",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 31,
+            "naam": "ML Road Frame - Red, 60",
+            "beschrijving": "Made from the same aluminum alloy as our top-of-the line HL frame, the ML features a lightweight down-tube milled to the perfect diameter for optimal strength. Men's version.",
+            "prijs": 594.8300,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "FR-R72R-60",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 72,
+            "naam": "Mountain-100 Black, 42",
+            "beschrijving": "Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain.",
+            "prijs": 3374.9900,
+            "afbeeldingUrl": "superlight_black_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "BK-M82B-42",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 275,
+            "naam": "Mountain-400-W Silver, 38",
+            "beschrijving": "This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road.",
+            "prijs": 769.4900,
+            "afbeeldingUrl": "hotrodbike_f_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-M38S-38",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 56,
+            "naam": "Road-650 Red, 60",
+            "beschrijving": "Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",
+            "prijs": 782.9900,
+            "afbeeldingUrl": "superlight_red_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "BK-R50R-60",
+            "leverancier": "Gazelle",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 68,
+            "naam": "Mountain-100 Silver, 42",
+            "beschrijving": "Top-of-the-line competition mountain bike. Performance-enhancing options include the innovative HL Frame, super-smooth front suspension, and traction for all terrain.",
+            "prijs": 3399.9900,
+            "afbeeldingUrl": "superlight_silver_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "BK-M82S-42",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 82,
+            "naam": "Mountain-300 Black, 40",
+            "beschrijving": "For true trail addicts.  An extremely durable bike that will go anywhere and keep you in control on challenging terrain - without breaking your budget.",
+            "prijs": 1079.9900,
+            "afbeeldingUrl": "hotrodbike_black_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "BK-M47B-40",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 42,
+            "naam": "HL Mountain Frame - Black, 46",
+            "beschrijving": "Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.",
+            "prijs": 1349.6000,
+            "afbeeldingUrl": "frame_black_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-M94B-46",
+            "leverancier": "Union",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 51,
+            "naam": "Road-450 Red, 60",
+            "beschrijving": "A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads.",
+            "prijs": 1457.9900,
+            "afbeeldingUrl": "roadster_red_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "BK-R68R-60",
+            "leverancier": "Bikkel",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 286,
+            "naam": "Mountain-500 Black, 44",
+            "beschrijving": "Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",
+            "prijs": 539.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-M18B-44",
+            "leverancier": "Union",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 37,
+            "naam": "HL Mountain Frame - Silver, 48",
+            "beschrijving": "Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.",
+            "prijs": 1364.5000,
+            "afbeeldingUrl": "frame_silver_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "FR-M94S-52",
+            "leverancier": "Gazelle",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 43,
+            "naam": "HL Mountain Frame - Black, 38",
+            "beschrijving": "Each frame is hand-crafted in our Bothell facility to the optimum diameter and wall-thickness required of a premium mountain frame. The heat-treated welded aluminum frame has a larger diameter tube that absorbs the bumps.",
+            "prijs": 1349.6000,
+            "afbeeldingUrl": "frame_black_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-M94B-38",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 55,
+            "naam": "Road-650 Red, 58",
+            "beschrijving": "Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",
+            "prijs": 782.9900,
+            "afbeeldingUrl": "superlight_red_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "BK-R50R-58",
+            "leverancier": "Eddy Merckx",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 280,
+            "naam": "Mountain-500 Silver, 42",
+            "beschrijving": "Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",
+            "prijs": 564.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-M18S-42",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 290,
+            "naam": "ML Bottom Bracket",
+            "beschrijving": "Aluminum alloy cups; large diameter spindle.",
+            "prijs": 101.2400,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BB-8107",
+            "leverancier": "Union",
+            "categorieen": [
+                "Components",
+                "Bottom Brackets"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 60,
+            "naam": "Road-650 Red, 52",
+            "beschrijving": "Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",
+            "prijs": 782.9900,
+            "afbeeldingUrl": "superlight_red_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "BK-R50R-52",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 88,
+            "naam": "Road-250 Red, 58",
+            "beschrijving": "Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",
+            "prijs": 2443.3500,
+            "afbeeldingUrl": "racer_red_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-R89R-58",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 32,
+            "naam": "LL Road Frame - Black, 44",
+            "beschrijving": "The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",
+            "prijs": 337.2200,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-R38B-44",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 53,
+            "naam": "Road-450 Red, 48",
+            "beschrijving": "A true multi-sport bike that offers streamlined riding and a revolutionary design. Aerodynamic design lets you ride with the pros, and the gearing will conquer hilly roads.",
+            "prijs": 1457.9900,
+            "afbeeldingUrl": "roadster_red_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2002-06-30T00:00:00",
+            "leveranciercode": "BK-R68R-48",
+            "leverancier": "AXA",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 284,
+            "naam": "Mountain-500 Black, 40",
+            "beschrijving": "Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",
+            "prijs": 539.9900,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "BK-M18B-40",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 84,
+            "naam": "Mountain-300 Black, 48",
+            "beschrijving": "For true trail addicts.  An extremely durable bike that will go anywhere and keep you in control on challenging terrain - without breaking your budget.",
+            "prijs": 1079.9900,
+            "afbeeldingUrl": "hotrodbike_black_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "BK-M47B-48",
+            "leverancier": "Union",
+            "categorieen": [
+                "Bikes",
+                "Mountain Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 65,
+            "naam": "Road-650 Black, 48",
+            "beschrijving": "Value-priced bike with many features of our top-of-the-line models. Has the same light, stiff frame, and the quick acceleration we're famous for.",
+            "prijs": 782.9900,
+            "afbeeldingUrl": "superlight_black_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "BK-R50B-48",
+            "leverancier": "Shimano",
+            "categorieen": [
+                "Bikes",
+                "Road Bikes"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 99,
+            "naam": "ML Fork",
+            "beschrijving": "Composite road fork with an aluminum steerer tube.",
+            "prijs": 175.4900,
+            "afbeeldingUrl": "fork_small.gif",
+            "leverbaarVanaf": "2002-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "FK-5136",
+            "leverancier": "Koga Miyata",
+            "categorieen": [
+                "Components",
+                "Forks"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 16,
+            "naam": "HL Road Frame - Red, 52",
+            "beschrijving": "Our lightest and best quality aluminum frame made from the newest alloy; it is welded and heat-treated for strength. Our innovative design results in maximum comfort and performance.",
+            "prijs": 1431.5000,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-R92R-52",
+            "leverancier": "Batavus",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 21,
+            "naam": "LL Road Frame - Red, 44",
+            "beschrijving": "The LL Frame provides a safe comfortable ride, while offering superior bump absorption in a value-priced aluminum frame.",
+            "prijs": 337.2200,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2001-07-01T00:00:00",
+            "leverbaarTot": "2003-06-30T00:00:00",
+            "leveranciercode": "FR-R38R-44",
+            "leverancier": "Raleigh",
+            "categorieen": [
+                "Components",
+                "Road Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 214,
+            "naam": "LL Mountain Frame - Silver, 48",
+            "beschrijving": "Our best value utilizing the same, ground-breaking frame technology as the ML aluminum frame.",
+            "prijs": 264.0500,
+            "afbeeldingUrl": "no_image_available_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "FR-M21S-48",
+            "leverancier": "Giant",
+            "categorieen": [
+                "Components",
+                "Mountain Frames"
+            ],
+            "voorraad": 0
+        },
+        {
+            "artikelnummer": 203,
+            "naam": "LL Mountain Seat/Saddle",
+            "beschrijving": "Synthetic leather. Features gel for increased comfort.",
+            "prijs": 27.1200,
+            "afbeeldingUrl": "saddle_small.gif",
+            "leverbaarVanaf": "2003-07-01T00:00:00",
+            "leverbaarTot": null,
+            "leveranciercode": "SE-M236",
+            "leverancier": "Giant",
+            "categorieen": [
+                "Components",
+                "Saddles"
+            ],
+            "voorraad": 0
+        }
+    ]
+}

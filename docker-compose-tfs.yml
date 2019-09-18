@@ -1,0 +1,213 @@
+version: '3.3'
+
+services:
+#VENTBUS
+  kantilever-sprinters-eventbus:
+    image: rabbitmq:3-management
+    container_name:  kantilever-sprinters-eventbus-c
+    environment:
+      - RABBITMQ_DEFAULT_USER=Kantilever
+      - RABBITMQ_DEFAULT_PASS=Kant1lever
+    networks:
+      - kantilever-sprinters
+#KLANTBEHEER
+  sprinters-klantbeheer:
+    image: dotnetminor.azurecr.io/sprinters-klantbeheer-i:latest
+    container_name: sprinters-klantbeheer-c
+    environment:
+      SPRINTERDB: 'Host=sprinters-postgres;Database=KlantBeheerDb;Username=postgres;Password=Geheim_101'
+      EXCHANGENAME: KantileverBus
+      HOSTNAME: kantilever-sprinters-eventbus
+      PASSWORD: Kant1lever
+      USERNAME: Kantilever
+      PORT: 5672
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://kantilever-sprinters-eventbus:5672"]
+      interval: 30s
+      timeout: 10s
+      retries: 10
+    restart: on-failure
+    depends_on:
+      - kantilever-sprinters-eventbus
+    networks:
+      - kantilever-sprinters
+#WEBSHOP FRONT-END
+  sprinters-webshop-frontend:
+    image: dotnetminor.azurecr.io/sprinters-webshop-angular-i:latest
+    container_name: sprinters-webshop-angular-c
+    environment:
+      VIRTUAL_HOST: sprinters-webshop.netminor.infosupport.net
+      VIRTUAL_PORT: 80
+      VIRTUAL_FOLDER: /
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://sprinters-webshop-bff:80/api/artikelen"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    restart: on-failure
+    depends_on:
+      - sprinters-webshop-bff
+    networks:
+      - kantilever-sprinters
+      - proxy
+#MAGAZIJN FRONT-END
+  sprinters-magazijn-frontend:
+    image: dotnetminor.azurecr.io/sprinters-magazijn-angular-i:latest
+    container_name: sprinters-magazijn-angular-c
+    environment:
+      VIRTUAL_HOST: sprinters-magazijn.netminor.infosupport.net
+      VIRTUAL_PORT: 80
+      VIRTUAL_FOLDER: /
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://sprinters-webshop-bff:80/api/bestellingen"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    restart: on-failure
+    depends_on:
+      - sprinters-webshop-bff
+    networks:
+      - kantilever-sprinters
+      - proxy
+#WEBSHOP BFF
+  sprinters-webshop-bff:
+    image: dotnetminor.azurecr.io/sprinters-webshop-bff-i:latest
+    container_name: sprinters-webshop-bff-c
+    environment:
+      SPRINTERDB: 'Host=sprinters-postgres;Database=KlantBFFDb;Username=postgres;Password=Geheim_101'
+      EXCHANGENAME: KantileverBus
+      HOSTNAME: kantilever-sprinters-eventbus
+      PASSWORD: Kant1lever
+      USERNAME: Kantilever
+      PORT: 5672
+      VIRTUAL_HOST: sprinters-webshop-bff.netminor.infosupport.net
+      VIRTUAL_PORT: 80
+      VIRTUAL_FOLDER: /
+      JWTKEY: SuperBelangrijkeSleutel101#
+      ISSUER: kantilever.nl
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://kantilever-sprinters-eventbus:5672"]
+      interval: 30s
+      timeout: 10s
+      retries: 10
+    restart: on-failure
+    depends_on:
+      - kantilever-sprinters-eventbus
+    networks:
+      - kantilever-sprinters
+      - proxy
+#Authenticatie
+  sprinters-authenticatie:
+    image: dotnetminor.azurecr.io/sprinters-authenticatie-i:latest
+    container_name: sprinters-authenticatie-c
+    environment:
+      SPRINTERDB: 'Host=sprinters-postgres;Database=AuthenticatieDb;Username=postgres;Password=Geheim_101'
+      EXCHANGENAME: KantileverBus
+      HOSTNAME: kantilever-sprinters-eventbus
+      PASSWORD: Kant1lever
+      USERNAME: Kantilever
+      PORT: 5672
+      SALESEMAIL: sales@kantilever.nlv #oeps
+      SALESPASSWORD: wachtwoordSales123!
+      MAGAZIJNEMAIL: magazijn@kantilever.nl
+      MAGAZIJNPASSWORD: wachtwoordMagazijn123!
+      JWTKEY: SuperBelangrijkeSleutel101#
+      ISSUER: kantilever.nl
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://kantilever-sprinters-eventbus:5672"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    restart: on-failure
+    depends_on:
+      - kantilever-sprinters-eventbus
+    networks:
+      - kantilever-sprinters
+#BESTELLINGBEHEER
+  sprinters-bestellingbeheer:
+    image: dotnetminor.azurecr.io/sprinters-bestellingbeheer-i:latest
+    container_name: sprinters-bestellingbeheer-c
+    environment:
+      SPRINTERDB: 'Host=sprinters-postgres;Database=BestellingBeheerDb;Username=postgres;Password=Geheim_101'
+      EXCHANGENAME: KantileverBus
+      HOSTNAME: kantilever-sprinters-eventbus
+      PASSWORD: Kant1lever
+      USERNAME: Kantilever
+      PORT: 5672
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://kantilever-sprinters-eventbus:5672"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    restart: on-failure
+    depends_on:
+      - kantilever-sprinters-eventbus
+    networks:
+      - kantilever-sprinters
+#Kantilever:
+  sql-sprinters-4:
+    image: microsoft/mssql-server-linux
+    container_name: sql-sprinters-4-c
+    environment:
+      ACCEPT_EULA: Y
+      SA_PASSWORD: Geheim_101
+    networks:
+      - kantilever-sprinters
+
+  kantilever-sprinters-auditlog:
+    image: dotnetminor.azurecr.io/kantilever-auditlog:latest
+    container_name: kantilever-sprinters-auditlog-c
+    environment:
+      - AuditLogDb=Server=sql-sprinters-4,1433;Database=AuditLogDB;User ID=sa;Password=Geheim_101
+      - VIRTUAL_HOST=kantilever-sprinters-auditlog.netminor.infosupport.net
+      - VIRTUAL_PORT=80
+      - eventbus-exchangename=KantileverBus
+      - eventbus-hostname=kantilever-sprinters-eventbus
+      - eventbus-username=Kantilever
+      - eventbus-password=Kant1lever
+      - startup-delay-in-seconds=60
+    volumes:
+      - type: "volume"
+        target: /app/data
+        #source: /dir/to/map/on/docker/host/machine
+    networks:
+      # - proxy
+      - kantilever-sprinters
+
+  kantilever-sprinters-magazijnservice:
+    image: dotnetminor.azurecr.io/kantilever-magazijn-service:latest
+    container_name: kantilever-sprinters-magazijnservice-c
+    environment:
+      - MagazijnDb=Server=sql-sprinters-4,1433;Database=MagazijnDb;User ID=sa;Password=Geheim_101
+      - VIRTUAL_HOST=kantilever-sprinters-magazijnservice.netminor.infosupport.net
+      - VIRTUAL_PORT=80
+      - eventbus-exchangename=KantileverBus
+      - eventbus-hostname=kantilever-sprinters-eventbus
+      - eventbus-username=Kantilever
+      - eventbus-password=Kant1lever
+      - startup-delay-in-seconds=80
+    networks:
+      # - proxy
+      - kantilever-sprinters
+
+  kantilever-sprinters-magazijnfrontend:
+    image: dotnetminor.azurecr.io/kantilever-magazijn-frontend:latest
+    container_name: kantilever-sprinters-magazijnfrontend-c
+    environment:
+      - MagazijnViewDb=Server=sql-sprinters-4,1433;Database=MagazijnViewDb;User ID=sa;Password=Geheim_101
+      - VIRTUAL_HOST=kantilever-sprinters-magazijnfrontend.netminor.infosupport.net
+      - VIRTUAL_PORT=80
+      - eventbus-exchangename=KantileverBus
+      - eventbus-hostname=kantilever-sprinters-eventbus
+      - eventbus-username=Kantilever
+      - eventbus-password=Kant1lever
+      - startup-delay-in-seconds=60
+    networks:
+      - kantilever-sprinters
+      - proxy
+networks:
+  proxy:
+    external:
+      name: proxy_network
+  kantilever-sprinters:
+    driver: bridge

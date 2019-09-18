@@ -1,0 +1,29 @@
+<div [class.isPrinting]="printService.isPrinting">
+  <div class="table-responsive">
+    <table class="table-striped table">
+      <thead>
+        <tr>
+          <th>Artikel</th>
+          <th>Leverancier Code</th>
+          <th>Aantal</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="artikelen" *ngFor="let item of bestelling?.besteldeArtikelen">
+          <td>{{item.artikel.naam}}</td>
+          <td>{{item.artikel.leveranciercode}}</td>
+          <td>{{item.aantal}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="row">
+    <div class="col">
+      <button class="btn btn-primary mr-3" (click)="onPrintFactuur()">Factuur printen</button>
+      <button class="btn btn-primary mr-3" (click)="onPrintAdres()">Adres printen</button>
+    </div>
+    <div class="col text-right">
+      <button [disabled]= "!activeVolgendeBestelling()" class="btn btn-primary" (click)="next()">Volgende bestelling</button>
+    </div>
+  </div>
+</div>

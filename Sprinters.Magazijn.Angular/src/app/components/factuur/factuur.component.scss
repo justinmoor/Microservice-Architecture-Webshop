@@ -1,0 +1,34 @@
+@import "../../../assets/scss/variables";
+:host{
+    .invoice-title h2, .invoice-title h3 {
+        display: inline-block;
+    }
+
+    .table > tbody > tr > .thick-line {
+        border-top: 2px solid;
+    }
+    .header { 
+        position: fixed; top: 0; 
+    }
+    .footer { 
+        position: fixed; bottom: 0; 
+    }
+    hr{
+        margin-top: $spacing-sm;
+        margin-bottom: $spacing-sm;
+    }
+    .address{
+        span{
+            display: block;
+            &.name{
+                font-weight: bold;
+            }
+        }
+    }
+        .img-responsive{
+            max-width: 100%;
+            height: auto;
+            display: block;
+            max-height: 150px;
+        }
+}

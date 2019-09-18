@@ -1,0 +1,26 @@
+<div class="card" *ngIf="product">
+    <div class="confirmation" [ngClass]="bevestiging ? 'active' : ''">
+        {{product.naam}} is toegevoegd
+    </div>
+    <a routerLink="product/{{product.artikelnummer}}">
+        <div [ngStyle]="{'background-image': 'url(assets/images/products/' + product.afbeeldingUrl + ')'}" class="product-image"></div>
+    </a>
+    <div class="card-body">
+        <a routerLink="product/{{product.artikelnummer}}">
+            <h5 class="card-title">{{product.naam}}</h5>
+        </a>
+        <div class="row align-items-center">
+            <a routerLink="product/{{product.artikelnummer}}">
+                <div class="col">
+                    <span>{{product.prijsWithBtw | eurcurrency}}</span>
+                    <app-voorraad [voorraad]="product.voorraad"></app-voorraad>
+                </div>
+            </a>
+            <div class="col text-right">
+                <button (click)="addProduct()" class="btn btn-secondary">
+                    <fa [name]="'cart-plus'"></fa>
+                </button>
+            </div>
+        </div>
+    </div>
+</div>

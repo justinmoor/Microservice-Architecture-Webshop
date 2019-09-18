@@ -1,0 +1,59 @@
+@import "../../../assets/scss/variables";
+
+header{
+    .row{
+        width: 100%;
+    }
+    nav.navbar{
+        padding: 0px;
+        .navbar-nav .nav-item {
+            a{
+                padding: 1.2rem 1.6rem;
+                position: relative;
+                color: #fff;
+                font-weight: bold;
+                &.active{
+                    border-bottom: 2px solid $secondary;
+                    color: $secondary;
+                }
+                .count{
+                    position: absolute;
+                    background-color: lighten($secondary, 10);
+                    border-radius: 50%;
+                    right: 0px;
+                    top: 5px;
+                    padding: 1% 6%;
+                }
+            }
+            button.nav-link{
+                background: transparent;
+                border: 0px;
+                color: #fff;
+                padding: 1.2rem 1.6rem;
+            }
+        }
+        .icon-nav{
+            padding: 1.2rem 0px;
+            a {
+                background-color: $secondary;
+                border-radius: 50%;
+                padding: 2% 3%;
+                position: relative;
+                i{
+                    color: #fff;
+                    position: relative;
+                   
+                }
+                .count{
+                    position: absolute;
+                    background-color: lighten($secondary, 10);
+                    border-radius: 50%;
+                    right: -12px;
+                    top: -8px;
+                    padding: .5% 1.5%;
+                    color: #fff;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,13 @@
+@import "../../../assets/scss/styles";
+:host {
+    display: block;
+    .green{
+        color: $success;
+    }
+    .orange{
+        color: $warning;
+    }
+    .red{
+        color: $danger;
+    }
+}

@@ -1,0 +1,29 @@
+<form [formGroup]="adresForm" (ngSubmit)="plaatsBestelling()">
+  <div class="form-group">
+    <label for="adresregel1">Adresregel 1</label>
+    <input type="text" class="form-control" id="adresregel1" placeholder="Voorbeeldstraat 126" formControlName="adresregel1">
+    <span *ngIf="veldInvalid('adresregel1')">Dit veld is niet correct ingevuld.</span>
+  </div>
+  <div class="form-group">
+    <label for="adresregel2">Adresregel 2</label>
+    <input type="text" class="form-control" id="adresregel2" placeholder="4e verdieping" formControlName="adresregel2">
+    <span *ngIf="veldInvalid('adresregel2')">Dit veld is niet correct ingevuld.</span>
+  </div>
+  <div class="form-row">
+    <div class="form-group col-md-2">
+      <label for="postcode">Postcode</label>
+      <input type="text" class="form-control" id="postcode" placeholder="1234AB" formControlName="postcode">
+      <span *ngIf="veldInvalid('postcode')">Dit veld is niet correct ingevuld. Graag correct postcode format gebruiken.</span>
+    </div>
+    <div class="form-group col-md-6">
+      <label for="plaats">Plaats</label>
+      <input type="text" class="form-control" id="plaats" placeholder="Meerdijk" formControlName="plaats">
+      <span *ngIf="veldInvalid('plaats')">Dit veld is niet correct ingevuld.</span>
+    </div>
+  </div>
+  <button *ngIf="zijnWinkelmandItemsAanwezig(); else geenItems" id="plaatsBestelling" [disabled]="adresForm.invalid" class="btn btn-primary">Plaats
+    bestelling
+  </button>
+  <ng-template #geenItems>Er zijn geen items aanwezig in uw winkelmand.</ng-template>
+  <p *ngIf="error">Er is iets mis gegaan! Probeer het later opnieuw.</p>
+</form>

@@ -1,0 +1,12 @@
+<div class="spacing spacing-md"></div>
+<div class="row topheader">
+  <div class="col-sm-8 offset-sm-2 text-center">
+    <div class="input-group">
+      <input [(ngModel)]="query" (keyup.enter)="zoek()" type=" text" class="form-control" aria-label="Text input with dropdown button">
+      <div class="input-group-append">
+        <button (click)="zoek()" class="btn btn-outline-secondary"><i class="fa fa-search"></i> search</button>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="spacing spacing-md"></div>

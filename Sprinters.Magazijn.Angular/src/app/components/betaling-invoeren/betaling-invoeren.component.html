@@ -1,0 +1,21 @@
+<h1>Betaling invoeren</h1>
+<form [formGroup]="betalingInvoerenForm" (ngSubmit)="plaats()">
+  <label for="factuurnummer">Factuurnummer</label>
+  <input type="number" class="form-control" id="factuurnummer" placeholder="Factuurnummer" formControlName="factuurnummer">
+  <label for="Bedrag">Bedrag</label>
+  <input type="number" class="form-control" id="bedrag" placeholder="Bedrag" formControlName="bedrag">
+  <span class="spacing spacing-sm"></span>
+  <div class="row">
+    <div class="col">
+      <button [disabled]="betalingInvoerenForm.invalid" class="btn btn-primary">Betaling registreren</button>
+      <button routerLink="/sales" class="pull-right btn btn-secondary">Bestelling overzicht</button>
+    </div>
+  </div>
+</form>
+<span class="spacing spacing-sm"></span>
+<div *ngIf="succes" class="alert alert-success" role="alert">
+  Betaling verwerkt!
+</div>
+<div *ngIf="error" class="alert alert-danger" role="alert">
+  Factuurnummer is niet bekend.
+</div>

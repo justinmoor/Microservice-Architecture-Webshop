@@ -1,0 +1,49 @@
+<td (click)="open(content)">{{bestelling.id}}</td>
+<td (click)="open(content)">{{bestelling.klant.voornaam}} {{bestelling.klant.achternaam}}</td>
+<td (click)="open(content)">{{bestelling.klant.krediet | eurcurrency}}</td>
+<td (click)="open(content)">{{bestelling.klant.telefoonnummer}}</td>
+<td>{{totaalVanBestelling | eurcurrency}}</td>
+<td>
+  <button (click)="bestellingGoedkeuren()" type="button" class="btn btn-sm btn-success"> Goedkeuren</button>
+</td>
+<td>
+  <button (click)="bestellingAfkeuren()" type="button" class="btn btn-sm btn-danger"> Afkeuren</button>
+</td>
+
+
+<ng-template #content let-modal>
+  <div class="modal-header">
+    <h4 class="modal-title" id="modal-basic-title">Bestelling Details</h4>
+    <button type="button" class="btn btn-outline" aria-label="Close" (click)="modal.close('Cross click')">
+      <i class="fa fa-times"></i>
+    </button>
+  </div>
+  <div class="modal-body">
+    <table class="table table-striped product-table">
+      <thead>
+        <tr>
+          <th class="font-weight-bold">
+            <strong>Naam</strong>
+          </th>
+          <th class="font-weight-bold">
+            <strong>Aantal</strong>
+          </th>
+          <th class="font-weight-bold">
+            <strong>Prijs per stuk</strong>
+          </th>
+        </tr>
+      </thead>
+      <tbody id="items-body">
+        <tr *ngFor="let besteldArtikel of bestelling.besteldeArtikelen">
+          <td>{{besteldArtikel.artikel.naam}}</td>
+          <td>{{besteldArtikel.aantal}}</td>
+          <td>{{besteldArtikel.artikel.prijsWithBtw | eurcurrency}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="modal-footer">
+    <button (click)="modal.close('goedkeuren')" type="button" class="btn btn-sm btn-success"> Goedkeuren</button>
+    <button (click)="modal.close('afkeuren')" type="button" class="btn btn-sm btn-danger"> Afkeuren</button>
+  </div>
+</ng-template>

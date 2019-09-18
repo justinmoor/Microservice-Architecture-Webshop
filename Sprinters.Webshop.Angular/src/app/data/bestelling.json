@@ -1,0 +1,40 @@
+{
+    "Id": 1,
+    "Voornaam": "Hans",
+    "Achternaam": "Van Huizen",
+    "Adres": "Laagstraat 11",
+    "AdresRegel2": null,
+    "Plaats": "Laaghoven",
+    "Postcode": "1234FG",
+    "InBehandeling": false,
+    "BesteldeArtikelen": [
+        {
+            "Id": 1,
+            "Artikel": {
+                "Artikelnummer": 1,
+                "Naam": "Fiets",
+                "Beschrijving": "Grote fiets voor iedereen",
+                "Prijs": 299.3,
+                "LeverbaarVanaf": "2017-01-01T00:00:00",
+                "LeverbaarTot": "2018-05-05T00:00:00",
+                "Voorraad": 5
+            },
+            "ArtikelId": 1,
+            "Aantal": 3
+        },
+        {
+            "Id": 2,
+            "Artikel": {
+                "Artikelnummer": 2,
+                "Naam": "Fiets Groot",
+                "Beschrijving": "HELE grote fiets voor iedereen",
+                "Prijs": 299.3,
+                "LeverbaarVanaf": "2017-01-01T00:00:00",
+                "LeverbaarTot": "2018-05-05T00:00:00",
+                "Voorraad": 8
+            },
+            "ArtikelId": 2,
+            "Aantal": 5
+        }
+    ]
+}

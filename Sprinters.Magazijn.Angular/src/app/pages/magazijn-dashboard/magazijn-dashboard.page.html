@@ -1,0 +1,13 @@
+<div class="container">
+    <span class="spacing spacing-md"></span>
+    <div class="row">
+        <div class="col">
+            <h1>Bestelling overzicht</h1>
+            <div class="alert alert-warning" *ngIf="inpakService.geenNieuweBestelling" role="alert">
+                Er zijn momenteel geen bestellingen
+            </div>
+            <span class="spacing spacing-md"></span>
+            <a class="btn btn-primary" routerLink="/laatste-bestelling">Bestellingen inpakken</a>
+        </div>
+    </div>
+</div>

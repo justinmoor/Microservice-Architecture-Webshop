@@ -1,0 +1,28 @@
+<form [formGroup]="loginForm" (ngSubmit)="login()">
+  <div class="form-group" [ngClass]="isFieldInvalid('userName') ? 'has-error has-feedback' : '' ">
+    <label for="userName">Gebruikersnaam</label>
+    <input type="email" placeholder="Gebruiker" formControlName="userName" required class="form-control" id="userName"
+      aria-describedby="emailHelp">
+    <div class="alert alert-danger" role="alert" *ngIf="isFieldInvalid('userName')">
+      Vul a.u.b. een email in.
+    </div>
+  </div>
+
+  <div class="form-group" [ngClass]="isFieldInvalid('password') ? 'has-error has-feedback' : ''">
+    <label for="password">Wachtwoord</label>
+    <input type="password" class="form-control" id="password" placeholder="Wachtwoord" formControlName="password"
+      required>
+    <div class="alert alert-danger" role="alert" *ngIf="isFieldInvalid('password')">
+      Vul a.u.b. een wachtwoord in.
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+        <button type="submit" class="btn btn-secondary">Inloggen</button>
+    </div>
+  </div>
+  <span class="spacing spacing-md"></span>
+  <div class="alert alert-danger" role="alert" *ngIf="error">
+      Verkeerde inloggegevens!
+    </div>
+</form>

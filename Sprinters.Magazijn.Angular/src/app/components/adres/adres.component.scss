@@ -1,0 +1,11 @@
+:host{
+    .address{
+        font-size: 1.4rem;
+        span{
+            display: block;
+            &.name{
+                font-weight: bold;
+            }
+        }
+    }
+}

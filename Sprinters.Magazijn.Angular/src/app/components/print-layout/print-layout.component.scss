@@ -1,0 +1,9 @@
+.header, .header-space, .footer, .footer-space { 
+    height: 100px; 
+}
+
+@media screen {
+  :host {
+    display: none;
+  }
+}

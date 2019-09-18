@@ -1,0 +1,42 @@
+<div class="container">
+    <span class="spacing spacing-lg"></span>
+    <h1>Bestellingen</h1>
+    <span class="spacing spacing-md"></span>
+    <div class="row">
+        <div class="col">
+            <div *ngIf="!SalesAvailable" class="alert alert-warning" role="alert">
+                Er zijn geen sales gevonden.
+            </div>
+            <div *ngIf="SalesAvailable" class="table-responsive">
+                <table class="table table-striped product-table">
+                    <thead>
+                        <tr>
+                            <th class="font-weight-bold">
+                                <strong>Factuurnummer</strong>
+                            </th>
+                            <th class="font-weight-bold">
+                                <strong>Naam</strong>
+                            </th>
+                            <th class="font-weight-bold">
+                                <strong>Krediet over</strong>
+                            </th>
+                            <th class="font-weight-bold">
+                                <strong>Telefoonnummer</strong>
+                            </th>
+                            <th class="font-weight-bold">
+                                <strong>Totaal bedrag</strong>
+                            </th>
+                            <th>Goedkeuren</th>
+                            <th>Afwijzen</th>
+                        </tr>
+                    </thead>
+                    <tbody id="items-body">
+                        <app-sales-bestelling *ngFor="let bestelling of bestellingen" [bestelling]="bestelling"></app-sales-bestelling>
+                    </tbody>
+                </table>
+                <button routerLink="/betaling" class="btn btn-secondary">Betaling registreren</button>
+            </div>
+        </div>
+    </div>
+    <span class="spacing spacing-md"></span>
+</div>

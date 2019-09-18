@@ -1,0 +1,61 @@
+@import 'variables';
+@import '../../../node_modules/bootstrap/scss/bootstrap';
+
+.spacing {
+    display: block;
+    clear: both;
+    &.spacing-xl {
+        height: $spacing-xl;
+        @include media-breakpoint-down(xs) {
+            height: $spacing-lg;
+        }
+    }
+    &.spacing-lg {
+        height: $spacing-lg;
+        @include media-breakpoint-down(sm) {
+            height: $spacing-lg / $spacing-scalar;
+        }
+        @include media-breakpoint-down(xs) {
+            height: $spacing-lg / ($spacing-scalar * 2);
+        }
+    }
+    &.spacing-md {
+        height: $spacing-md;
+    }
+    &.spacing-sm {
+        height: $spacing-sm;
+    }
+    &.spacing-xs {
+        height: $spacing-xs;
+    }
+}
+
+.btn-secondary{
+    color: #fff;
+}
+
+.img-responsive{
+    max-width: 100%;
+    height: auto;
+}
+
+.color-wrap{
+    padding: 2% 3%;
+    background-color: $primary;
+}
+
+.btn.btn-primary{
+    color: #fff;
+}
+form .form-group{
+    &.has-error input{
+        border-color: $danger;
+    }
+    &.has-success input{
+        border-color: $success;
+    }
+    .error_message{
+        color: $danger;
+        font-size: .75rem;
+    }
+}

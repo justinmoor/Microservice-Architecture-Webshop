@@ -1,0 +1,25 @@
+:host{
+    display: table-row;
+    td{
+        vertical-align: middle;
+    }
+    img {
+        max-width: 120px;
+    }
+}
+
+.fa {
+    font-size: 80%;
+    background: none;
+    border: none;
+}
+
+.fa-plus:before, .fa-minus:before {
+    content: "\f067";
+    margin-left: 5px;
+}
+
+.fa-minus:before{
+    content:"\f068";
+    margin-right: 5px;
+}

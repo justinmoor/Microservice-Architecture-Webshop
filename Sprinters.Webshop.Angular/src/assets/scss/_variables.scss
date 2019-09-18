@@ -1,0 +1,31 @@
+$spacer: 1rem !default;
+$spacers: () !default;
+// stylelint-disable-next-line scss/dollar-variable-default
+$spacers: map-merge(
+  (
+    0: 0,
+    1: ($spacer * .25),
+    2: ($spacer * .5),
+    3: $spacer,
+    4: ($spacer * 1.5),
+    5: ($spacer * 3)
+  ),
+  $spacers
+);
+
+
+$spacing-xl:    ($spacer * 3) * 2 !default;
+$spacing-lg:    ($spacer * 1.5) * 2 !default;
+$spacing-md:    ($spacer) * 2 !default;
+$spacing-sm:    ($spacer * .5) * 2 !default;
+$spacing-xs:    ($spacer * .25) * 2 !default;
+$spacing-scalar: 2 !default;
+
+$primary: #aab1e4 !default;
+$secondary: #2d398e !default;
+
+$font-family-base: Calibri, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+$headings-color: $secondary;
+
+
+

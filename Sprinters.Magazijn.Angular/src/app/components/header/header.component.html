@@ -1,0 +1,32 @@
+<header>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <ul class="navbar-nav">
+            <li *ngIf="jwtService.token" class="nav-item">
+              <a class="nav-link" routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Home</a>
+            </li>
+            <li *ngIf="!jwtService.token" class="nav-item">
+              <a class="nav-link" routerLink="/inloggen" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Inloggen</a>
+            </li>
+            <li *ngIf="jwtService.isSales()" class="nav-item">
+              <a class="nav-link" routerLink="/sales" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Bestellingen</a>
+            </li>
+            <li *ngIf="jwtService.isSales()" class="nav-item">
+              <a class="nav-link" routerLink="/betaling" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Betaling registreren</a>
+            </li>
+            <li *ngIf="jwtService.isMagazijn()"  class="nav-item">
+              <a class="nav-link" routerLink="/magazijn-dashboard" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Overzicht bestellingen</a>
+            </li>
+            <li *ngIf="jwtService.token" class="nav-item">
+              <a class="nav-link" (click)="logOut()" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Uitloggen</a>
+            </li>
+          </ul>
+        </div>
+        <div class="col-sm-6 text-right">
+        </div>
+      </div>
+    </div>
+  </nav>
+</header>

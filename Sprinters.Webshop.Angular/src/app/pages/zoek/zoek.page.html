@@ -1,0 +1,15 @@
+<div class="container">
+  <span class="spacing spacing-lg"></span>
+  <h1>Producten</h1>
+  <div class="alert alert-success" *ngIf="message" role="alert">
+    {{message}}
+  </div>
+  <span class="spacing spacing-md">
+  </span>
+  <div class="row products">
+    <div class="col-sm-4 col-md-3" *ngFor="let product of searchProducten()">
+      <app-product-card [product]="product"></app-product-card>
+      <span class="spacing spacing-md"></span>
+    </div>
+  </div>
+</div>

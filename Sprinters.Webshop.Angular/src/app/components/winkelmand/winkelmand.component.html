@@ -1,0 +1,44 @@
+<div class="table-responsive">
+  <table class="table table-striped product-table">
+      <thead>
+          <tr>
+              <th></th>
+              <th class="font-weight-bold">
+                  <strong>Product</strong>
+              </th>
+              <th class="font-weight-bold text-right">
+                  <strong>Prijs</strong>
+              </th>
+              <th class="font-weight-bold text-right">
+                  <strong>Aantal</strong>
+              </th>
+              <th class="font-weight-bold text-right">
+                  <strong>Totaal</strong>
+              </th>
+          </tr>
+      </thead>
+      <tbody id="items-body">
+          <app-winkelmand-item *ngFor="let item of items" [item]="item"></app-winkelmand-item>
+      </tbody>
+      <tfoot>
+          <tr class="totalwithbtw">
+              <td></td>
+              <td></td>
+              <td></td>
+              <td class="text-right">Totaal:</td>
+              <td class="text-right">
+                  <span>{{ totaalBedrag | eurcurrency}}</span>
+              </td>
+          </tr>
+          <tr class="total">
+              <td></td>
+              <td></td>
+              <td></td>
+              <td class="text-right">Totaal exclusief btw:</td>
+              <td class="text-right">
+                  <span>{{ totaalBedragZonderBtw | eurcurrency}}</span>
+              </td>
+          </tr>
+      </tfoot>
+  </table>
+</div>

@@ -1,0 +1,65 @@
+<form [formGroup]="registratieForm" (ngSubmit)="registreer()" > 
+  <h2>Account</h2>
+    <ngb-alert [dismissible]="false" type="danger" *ngIf="error">
+      {{error}}
+    </ngb-alert>
+    <div class="form-row">
+      <div class="form-group col-md-12" [ngClass]="veldInvalid('email') ? 'has-error has-feedback' : ''">
+          <label for="email">Email</label>
+          <input type="text" class="form-control" id="email" placeholder="Email" formControlName="email">
+          <span *ngIf="veldInvalid('email')" class="error_message">Dit veld is niet correct ingevuld.</span>
+        </div>
+      <div class="form-group col-md-6" [ngClass]="veldInvalid('wachtwoord') ? 'has-error has-feedback' : ''">
+          <label for="wachtwoord">Wachtwoord</label>
+          <input type="password" class="form-control" id="wachtwoord" placeholder="Wachtwoord" formControlName="wachtwoord">
+          <span *ngIf="veldInvalid('wachtwoord')" class="error_message">Dit veld is niet correct ingevuld.</span>
+          <span class="helper">Het wachtwoord moet 1 hoofdletter, 1 vreemd teken, 1 cijfer en minimaal 7 tekens bevatten.</span>
+      </div>
+      <div class="form-group col-md-6" [ngClass]="veldInvalid('wachtwoord_herhaal') ? 'has-error has-feedback' : ''">
+          <label for="wachtwoord_herhaal">Wachtwoord (herhaal)</label>
+          <input type="password" class="form-control" id="wachtwoord_herhaal" placeholder="Wachtwoord (herhaal)" formControlName="wachtwoord_herhaal">
+          <div *ngIf="getFormControls.wachtwoord_herhaal.errors?.noMatch">De wachtwoorden moeten gelijk zijn</div>
+          <span *ngIf="veldInvalid('wachtwoord_herhaal')" class="error_message">Dit veld is niet correct ingevuld.</span>
+      </div>
+    </div>
+    <hr>
+    <h2>Gegevens</h2>
+    <div class="form-row">
+      <div class="form-group col-md-4" [ngClass]="veldInvalid('voornaam') ? 'has-error has-feedback' : ''">
+        <label for="voornaam">Voornaam</label>
+        <input type="text" class="form-control" id="voornaam" placeholder="Voornaam" formControlName="voornaam">
+        <span *ngIf="veldInvalid('voornaam')" class="error_message">Dit veld is niet correct ingevuld.</span>
+        </div>
+      <div class="form-group col-md-4" [ngClass]="veldInvalid('achternaam') ? 'has-error has-feedback' : ''">
+        <label for="achternaam">Achternaam</label>
+        <input type="text" class="form-control" id="achternaam" placeholder="Achternaam" formControlName="achternaam">
+        <span *ngIf="veldInvalid('achternaam')" class="error_message">Dit veld is niet correct ingevuld.</span>
+      </div>
+      <div class="form-group col-md-4" [ngClass]="veldInvalid('telefoon') ? 'has-error has-feedback' : ''">
+          <label for="telefoon">Telefoon</label>
+          <input type="text" class="form-control" id="telefoon" placeholder="Telefoon" formControlName="telefoon">
+          <span *ngIf="veldInvalid('telefoon')" class="error_message">Dit veld is niet correct ingevuld.</span>
+        </div>
+    </div>
+    <div class="form-row">
+      <div class="form-group col-md-8" [ngClass]="veldInvalid('adresregel') ? 'has-error has-feedback' : ''">
+        <label for="adresregel">Adresregel</label>
+        <input type="text" class="form-control" id="adresregel" placeholder="Voorbeeldstraat 126" formControlName="adresregel">
+        <span *ngIf="veldInvalid('adresregel')" class="error_message">Dit veld is niet correct ingevuld.</span>
+      </div>
+
+    </div>
+    <div class="form-row">
+        <div class="form-group col-md-2" [ngClass]="veldInvalid('postcode') ? 'has-error has-feedback' : ''">
+            <label for="postcode">Postcode</label>
+            <input type="text" class="form-control" id="postcode" placeholder="1234AB" formControlName="postcode">
+            <span *ngIf="veldInvalid('postcode')" class="error_message">Dit veld is niet correct ingevuld. Graag correct postcode format gebruiken.</span>
+          </div>
+      <div class="form-group col-md-6" [ngClass]="veldInvalid('plaats') ? 'has-error has-feedback' : ''">
+        <label for="plaats">Plaats</label>
+        <input type="text" class="form-control" id="plaats" placeholder="Meerdijk" formControlName="plaats">
+        <span *ngIf="veldInvalid('plaats')" class="error_message">Dit veld is niet correct ingevuld.</span>
+      </div>
+    </div>
+    <button [disabled]="registratieForm.invalid" id="registreer" class="btn btn-primary">Registreer</button>
+  </form>

@@ -1,0 +1,17 @@
+<th scope="row">
+  <button class="fa fa-trash-o" (click)="removeProduct()"></button>
+  <img [src]="'assets/images/products/'+item.afbeeldingUrl" alt="" class="img-fluid z-depth-0">
+</th>
+<td>
+  <h5 class="mt-3">
+    <strong>{{item.naam}}</strong>
+  </h5>
+</td>
+
+<td  class="text-right">{{item.prijsWithBtw | eurcurrency}}</td>
+<td class="font-weight-bold text-right">
+    <button class="fa fa-minus" (click)="removeItem()"></button>
+  <strong class="aantal">{{item.aantal}}</strong>
+  <button class="fa fa-plus" (click)="addItem()"></button>
+</td>
+<td class="text-right">{{totaalVanItem | eurcurrency}}</td>

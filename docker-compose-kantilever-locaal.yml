@@ -1,0 +1,86 @@
+﻿version: '3.3'
+
+services:
+  sql-sprinters:
+    image: microsoft/mssql-server-linux:2017-latest
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Geheim_101
+    networks:
+      - kantilever-sprinters
+    ports:
+      - 1433:1433
+
+  kantilever-sprinters-eventbus:
+    image: rabbitmq:3-management
+    environment:
+      - RABBITMQ_DEFAULT_USER=Kantilever
+      - RABBITMQ_DEFAULT_PASS=Kant1lever
+    networks:
+      - kantilever-sprinters
+      #- proxy
+    ports:
+      - 5672:5672
+      - 15672:15672
+
+  kantilever-sprinters-auditlog:
+    image: dotnetminor.azurecr.io/kantilever-auditlog:latest
+    environment:
+      - AuditLogDb=Server=sql-sprinters,1433;Database=AuditLogDB;User ID=sa;Password=Geheim_101
+      - VIRTUAL_HOST=kantilever-sprinters-auditlog.netminor2.infosupport.net
+      - VIRTUAL_PORT=80
+      - eventbus-exchangename=KantileverBus
+      - eventbus-hostname=kantilever-sprinters-eventbus
+      - eventbus-username=Kantilever
+      - eventbus-password=Kant1lever
+      - startup-delay-in-seconds=60
+    volumes:
+      - type: "volume"
+        target: /app/data
+        #source: /dir/to/map/on/docker/host/machine
+    networks:
+      # - proxy
+      - kantilever-sprinters
+    ports:
+     - 8082:80 
+
+  kantilever-sprinters-magazijnservice:
+    image: dotnetminor.azurecr.io/kantilever-magazijn-service:latest
+    environment:
+      - MagazijnDb=Server=sql-sprinters,1433;Database=MagazijnDb;User ID=sa;Password=Geheim_101
+      - VIRTUAL_HOST=kantilever-sprinters-magazijnservice.netminor2.infosupport.net
+      - VIRTUAL_PORT=80
+      - eventbus-exchangename=KantileverBus
+      - eventbus-hostname=kantilever-sprinters-eventbus
+      - eventbus-username=Kantilever
+      - eventbus-password=Kant1lever
+      - startup-delay-in-seconds=60
+    networks:
+      # - proxy
+      - kantilever-sprinters
+    ports:
+     - 8081:80
+
+  kantilever-sprinters-magazijnfrontend:
+    image: dotnetminor.azurecr.io/kantilever-magazijn-frontend:latest
+    environment:
+      - MagazijnViewDb=Server=sql-sprinters,1433;Database=MagazijnViewDb;User ID=sa;Password=Geheim_101
+      - VIRTUAL_HOST=kantilever-sprinters-magazijnfrontend.netminor2.infosupport.net
+      - VIRTUAL_PORT=80
+      - eventbus-exchangename=KantileverBus
+      - eventbus-hostname=kantilever-sprinters-eventbus
+      - eventbus-username=Kantilever
+      - eventbus-password=Kant1lever
+      - startup-delay-in-seconds=60
+    networks:
+      - kantilever-sprinters
+      # - proxy
+    ports:
+     - 8080:80
+
+networks:
+  # proxy:
+  #   external:
+  #     name: proxy_network
+  kantilever-sprinters:
+    driver: bridge

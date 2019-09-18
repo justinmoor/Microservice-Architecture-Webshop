@@ -1,0 +1,22 @@
+<div class="row">
+  <div class="col-md-6">
+    <div class="detail-image"  [ngStyle]="{'background-image': 'url(assets/images/products/' + product?.afbeeldingUrl || 'no_image_available_small.gif' + ')'}"></div>
+  </div>
+  <div class="col-md-6">
+    <h1>{{product?.naam}}</h1>
+    <p>{{product?.beschrijving}}</p>
+    <div class="row">
+      <div class="col align-self-center">
+          <app-voorraad [voorraad]="product?.voorraad"></app-voorraad>
+          <span class="price">{{product?.prijsWithBtw | eurcurrency}}</span>
+      </div>
+      <div class="col align-self-center">
+          <button (click)="addProduct()" class="btn btn-secondary">
+              <fa [name]="'cart-plus'"></fa>
+            </button>
+      </div>
+    </div>
+    <span class="spacing spacing-sm"></span>
+    <span class="font-weight-bold">Leverancier: </span>{{product?.leverancier}}
+  </div>
+</div>

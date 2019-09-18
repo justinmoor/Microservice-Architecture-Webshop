@@ -1,0 +1,37 @@
+/* You can add global styles to this file, and also import other style files */
+@import 'variables';
+@import '../../../node_modules/bootstrap/scss/bootstrap';
+
+@media print {
+    .isPrinting > * { display: none; }
+    .isPrinting app-print-layout { display: block; }
+  }
+
+.spacing {
+    display: block;
+    clear: both;
+    &.spacing-xl {
+        height: $spacing-xl;
+        @include media-breakpoint-down(xs) {
+            height: $spacing-lg;
+        }
+    }
+    &.spacing-lg {
+        height: $spacing-lg;
+        @include media-breakpoint-down(sm) {
+            height: $spacing-lg / $spacing-scalar;
+        }
+        @include media-breakpoint-down(xs) {
+            height: $spacing-lg / ($spacing-scalar * 2);
+        }
+    }
+    &.spacing-md {
+        height: $spacing-md;
+    }
+    &.spacing-sm {
+        height: $spacing-sm;
+    }
+    &.spacing-xs {
+        height: $spacing-xs;
+    }
+}

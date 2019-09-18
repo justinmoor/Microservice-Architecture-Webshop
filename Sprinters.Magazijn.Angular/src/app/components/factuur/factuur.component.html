@@ -1,0 +1,72 @@
+<div class="container">
+	<div class="row">
+		<div class="col">
+			<h2 class="panel-title"><strong>Factuur</strong></h2>
+		</div>
+	</div>
+	<div class="row">
+		<div class="address col-md-3">
+			<h3>Klant Adres:</h3>
+			<span class="name">{{bestelling.klant.voornaam}} {{bestelling.klant.achternaam}}</span>
+			<span>{{bestelling.adresRegel1}}</span>
+			<span>{{bestelling.adresRegel2}}</span>
+			<span>{{bestelling.postcode}} {{bestelling.plaats}}</span>
+		</div>
+		<div class="col-md-3">
+			<h3>Kantilever Adres:</h3>
+			<div class="address">
+				<span class="name">Kantilever B.V.</span>
+				<span>Kruisboog 42</span>
+				<span>3905 TG Veenendaal</span>
+				<span>Tel: +31 318 552020</span>
+				<span>Email: info@kantilever.nl</span>
+				<span>IBAN: NL44 ABNA 00058 54051</span>
+				<span>K.v.K. 3013 5370</span>
+				<span>BTW NL8062.30.277.B01</span>
+			</div>
+		</div>
+		<div class="col-md-6">
+			<img src="assets/images/logo.png" class="img-responsive logo" alt="">
+		</div>
+	</div>
+	<hr>
+	<div class="row">
+		<div class="col">
+			<h3>Bestelling:</h3>
+			<div class="table-responsive">
+				<table class="table table-striped">
+					<thead>
+						<tr>
+							<td><strong>Product</strong></td>
+							<td class="text-center"><strong>Prijs</strong></td>
+							<td class="text-center"><strong>Aantal</strong></td>
+							<td class="text-right"><strong>Totaal</strong></td>
+						</tr>
+					</thead>
+					<tbody>
+						<tr *ngFor="let regel of bestelling.besteldeArtikelen">
+							<td>{{regel.artikel.naam}}</td>
+							<td class="text-center">{{regel.artikel.prijsWithBtw | eurcurrency}}</td>
+							<td class="text-center">{{regel.aantal}}</td>
+							<td class="text-right">{{regel.artikel.prijsWithBtw * regel.aantal | eurcurrency}}</td>
+						</tr>
+						<tr>
+							<td class="thick-line"></td>
+							<td class="thick-line"></td>
+							<td class="thick-line text-center"><strong>Totaal</strong></td>
+							<td class="thick-line text-right">{{totaalBedrag | eurcurrency}}</td>
+						</tr>
+						<tr>
+							<td></td>
+							<td></td>
+							<td class="text-center"><strong>Totaal excl btw</strong></td>
+							<td class="text-right">{{totaalBedragZonderBtw | eurcurrency}}</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+
+</div>
+<div class="footer">Kantilever B.V.</div>

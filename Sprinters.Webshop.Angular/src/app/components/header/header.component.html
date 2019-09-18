@@ -1,0 +1,40 @@
+<header>
+	<div class="container">
+		<div class="row banner">
+			<div class="col">
+				<img src="assets/images/banner.png" class="img-responsive" alt="">
+			</div>
+		</div>
+		<app-search-bar></app-search-bar>
+	</div>
+	<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-6">
+					<ul class="navbar-nav">
+						<li class="nav-item">
+							<a class="nav-link" routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Home</a>
+						</li>
+						<li class="nav-item" *ngIf="!jwtService.token">
+							<a class="nav-link" routerLink="/inloggen" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Inloggen</a>
+						</li>
+						<li class="nav-item" *ngIf="jwtService.token">
+							<button class="nav-link" (click)="logout()">Uitloggen</button>
+						</li>
+					</ul>
+				</div>
+				<div class="col-sm-6 text-right">
+					<div class="icon-nav">
+						<a routerLink="/winkelmand" routerLinkActive="active">
+							<i class="fa fa-shopping-cart">
+
+							</i>
+							<span class="count">{{winkelmandItems}}</span>
+						</a>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</nav>
+</header>
